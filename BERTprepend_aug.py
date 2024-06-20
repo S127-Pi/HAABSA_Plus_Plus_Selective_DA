@@ -138,7 +138,12 @@ def augment_sentence_nouns(in_sentence, in_target,sentiment):
         else:
             j += 1
     # print(F"{number_nouns=}")
-    
+    if number_nouns < 1:
+        return in_sentence, in_target
+    num_to_mask = max(1, int(0.5 * number_nouns))
+
+    mask_indices = rd.sample(noun_idx, num_to_mask)
+
 
     i = 0
     augmented_sentence = []
@@ -150,7 +155,7 @@ def augment_sentence_nouns(in_sentence, in_target,sentiment):
             augmented_sentence.append(doc_tokens[i])
             i += 1
         else:
-            if doc[i].pos_ in ['NOUN', 'PRON']:
+            if doc[i].pos_ in ['NOUN', 'PRON'] and i in mask_indices:
                 amount_masked += 1
                 masked_word = doc_tokens[i]
                 cur_sent[i] = '[MASK]'

@@ -1,744 +1,744 @@
-$T$ is_1435 a_1349 must_36 !_478
-green_16 tea_12 cr_18 ##eme_0 br_9 ##ule_0 ##e_94
+$T$ is_1411 a_1322 must_38 !_476
+green_13 tea_16 cr_18 ##eme_0 br_13 ##ule_0 ##e_106
 1
-–_15 i_692 ca_38 n_248 '_766 say_37 enough_36 about_126 this_508 $T$ ._4000
-place_363
+–_15 i_878 ca_41 n_242 '_755 say_37 enough_37 about_124 this_504 $T$ ._3973
+place_421
 1
-the_4444 entire_17 $T$ was_1173 extremely_22 acc_10 ##omo_10 ##dating_10 and_2406 tended_0 to_912 my_147 every_55 need_22 ._4003
+the_4302 entire_11 $T$ was_1149 extremely_21 acc_10 ##omo_10 ##dating_10 and_2343 tended_0 to_892 my_212 every_59 need_20 ._3976
 staff_167
 1
-i_693 '_767 ve_105 been_110 to_913 this_509 $T$ over_133 a_1350 dozen_1 times_39 with_421 no_100 complaints_2 to_914 date_22 ._4004
-restaurant_294
+i_879 '_756 ve_106 been_110 to_893 this_505 $T$ over_130 a_1323 dozen_0 times_43 with_416 no_103 complaints_2 to_894 date_27 ._3977
+restaurant_275
 1
-the_4445 $T$ is_1436 bell_0 ##iger_0 ##ent_10 to_915 guests_13 that_404 have_298 a_1351 complaint_1 ._4005
-owner_7
+the_4303 $T$ is_1412 bell_0 ##iger_0 ##ent_10 to_895 guests_14 that_407 have_296 a_1324 complaint_2 ._3978
+owner_11
 -1
-–_16 i_694 was_1174 highly_42 disappointed_14 in_547 the_4448 $T$ at_321 pagoda_0 ._4008
-food_1055
+–_16 i_880 was_1150 highly_43 disappointed_14 in_547 the_4306 $T$ at_311 pagoda_0 ._3981
+food_998
 -1
-our_86 $T$ was_1176 non_13 -_720 existent_4 and_2410 after_30 our_87 food_1056 finally_4 arrived_5 over_136 an_135 hour_9 after_31 we_481 ordered_36 ,_2891 we_482 were_309 not_387 given_11 any_54 water_15 or_175 ut_1 ##ens_6 ##ils_0 ._4030
-waiter_88
+our_95 $T$ was_1152 non_10 -_720 existent_4 and_2347 after_29 our_96 food_999 finally_4 arrived_4 over_133 an_129 hour_10 after_30 we_388 ordered_37 ,_2828 we_389 were_306 not_377 given_10 any_50 water_10 or_174 ut_0 ##ens_6 ##ils_0 ._4003
+waiter_81
 -1
-i_696 complained_3 to_917 the_4460 $T$ ,_2892 but_514 he_44 was_1177 not_388 even_91 apologetic_0 ._4031
-manager_15
+i_882 complained_2 to_897 the_4318 $T$ ,_2829 but_505 he_40 was_1153 not_378 even_86 apologetic_0 ._4004
+manager_20
 -1
-–_18 i_700 will_66 never_105 forget_2 the_4465 amazing_109 $T$ ,_2893 service_458 ,_2894 and_2413 am_69 ##bian_13 ##ce_18 i_701 experience_47 at_322 this_512 restaurant_297 ._4036
-meal_81
+–_18 i_886 will_64 never_105 forget_2 the_4323 amazing_108 $T$ ,_2830 service_552 ,_2831 and_2350 am_88 ##bian_18 ##ce_25 i_887 experience_45 at_312 this_508 restaurant_278 ._4009
+meal_80
 1
-–_19 i_702 will_67 never_106 forget_3 the_4466 amazing_110 meal_82 ,_2895 $T$ ,_2896 and_2414 am_70 ##bian_14 ##ce_19 i_703 experience_48 at_323 this_513 restaurant_298 ._4037
-service_459
+–_19 i_888 will_65 never_106 forget_3 the_4324 amazing_109 meal_81 ,_2832 $T$ ,_2833 and_2351 am_89 ##bian_19 ##ce_26 i_889 experience_46 at_313 this_509 restaurant_279 ._4010
+service_553
 1
-–_20 i_704 will_68 never_107 forget_4 the_4467 amazing_111 meal_83 ,_2897 service_460 ,_2898 and_2415 $T$ i_705 experience_49 at_324 this_514 restaurant_299 ._4038
-am_71 ##bian_15 ##ce_20
+–_20 i_890 will_66 never_107 forget_4 the_4325 amazing_110 meal_82 ,_2834 service_554 ,_2835 and_2352 $T$ i_891 experience_47 at_314 this_510 restaurant_280 ._4011
+am_90 ##bian_20 ##ce_27
 1
-it_457 '_768 s_259 *_10 very_361 *_11 reasonably_14 priced_53 ,_2905 es_12 ##p_11 for_564 the_4478 quality_65 of_763 the_4479 $T$ ._4043
-food_1064
+it_514 '_757 s_241 *_10 very_342 *_11 reasonably_14 priced_51 ,_2842 es_12 ##p_12 for_557 the_4336 quality_52 of_756 the_4337 $T$ ._4016
+food_1007
 1
-it_458 '_769 s_260 *_12 very_362 *_13 reasonably_15 priced_54 ,_2906 es_13 ##p_12 for_565 the_4480 quality_66 of_764 the_4481 $T$ ._4044
-food_1065
+it_515 '_758 s_242 *_12 very_343 *_13 reasonably_15 priced_52 ,_2843 es_13 ##p_13 for_558 the_4338 quality_53 of_757 the_4339 $T$ ._4017
+food_1008
 1
-finally_5 a_1356 $T$ that_407 you_360 will_69 remember_14 for_566 a_1357 long_12 time_73 !_483
-meal_84
+finally_5 a_1329 $T$ that_410 you_444 will_67 remember_14 for_559 a_1330 long_9 time_78 !_481
+meal_83
 1
-i_708 liked_10 the_4490 $T$ very_363 much_61 but_515 the_4491 food_1071 was_1183 not_390 worth_64 the_4492 price_92 ._4051
-atmosphere_101
+i_894 liked_10 the_4348 $T$ very_344 much_57 but_506 the_4349 food_1014 was_1159 not_380 worth_65 the_4350 price_123 ._4024
+atmosphere_114
 1
-i_709 liked_11 the_4493 atmosphere_102 very_364 much_62 but_516 the_4494 $T$ was_1184 not_391 worth_65 the_4495 price_93 ._4052
-food_1072
+i_895 liked_11 the_4351 atmosphere_115 very_345 much_58 but_507 the_4352 $T$ was_1160 not_381 worth_66 the_4353 price_124 ._4025
+food_1015
 -1
-i_710 liked_12 the_4496 atmosphere_103 very_365 much_63 but_517 the_4497 $T$ was_1185 not_392 worth_66 the_4498 price_94 ._4053
-food_1073
+i_896 liked_12 the_4354 atmosphere_116 very_346 much_59 but_508 the_4355 $T$ was_1161 not_382 worth_67 the_4356 price_125 ._4026
+food_1016
 -1
-i_711 may_32 not_393 be_211 a_1362 su_106 ##shi_99 guru_0 but_518 i_712 can_120 tell_10 you_361 that_412 the_4499 $T$ here_112 is_1449 just_124 okay_7 and_2435 that_413 there_105 is_1450 not_394 much_64 else_14 to_926 it_460 ._4054
-food_1074
+i_897 may_32 not_383 be_210 a_1335 su_134 ##shi_125 guru_0 but_509 i_898 can_118 tell_10 you_445 that_415 the_4357 $T$ here_110 is_1425 just_129 okay_7 and_2372 that_416 there_118 is_1426 not_384 much_60 else_14 to_906 it_517 ._4027
+food_1017
 -1
-furthermore_4 ,_2916 while_40 the_4505 $T$ is_1453 un_62 ##quest_0 ##ion_4 ##ably_4 fresh_152 ,_2917 rolls_57 tend_2 to_929 be_214 in_554 ##ex_2 ##pl_8 ##ica_0 ##bly_0 bland_38 ._4060
-fish_106
+furthermore_4 ,_2853 while_36 the_4363 $T$ is_1429 un_66 ##quest_0 ##ion_7 ##ably_4 fresh_146 ,_2854 rolls_62 tend_2 to_909 be_213 in_554 ##ex_2 ##pl_10 ##ica_0 ##bly_0 bland_41 ._4033
+fish_99
 1
-furthermore_5 ,_2918 while_41 the_4506 fish_107 is_1454 un_63 ##quest_1 ##ion_5 ##ably_5 fresh_153 ,_2919 $T$ tend_3 to_930 be_215 in_555 ##ex_3 ##pl_9 ##ica_1 ##bly_1 bland_39 ._4061
-rolls_58
+furthermore_5 ,_2855 while_37 the_4364 fish_100 is_1430 un_67 ##quest_1 ##ion_8 ##ably_5 fresh_147 ,_2856 $T$ tend_3 to_910 be_214 in_555 ##ex_3 ##pl_11 ##ica_1 ##bly_1 bland_42 ._4034
+rolls_63
 -1
-on_255 a_1363 recent_4 trip_15 ,_2920 our_88 $T$ was_1188 extremely_23 dismiss_0 ##ive_12 ,_2921 while_42 no_101 less_9 than_77 three_13 staff_172 members_2 waited_4 hand_7 -_722 and_2441 -_723 foot_0 on_256 a_1364 pair_0 of_769 japanese_58 girls_4 seated_6 nearby_0 ._4063
-waiter_89
+on_250 a_1336 recent_4 trip_16 ,_2857 our_97 $T$ was_1164 extremely_22 dismiss_0 ##ive_12 ,_2858 while_38 no_104 less_8 than_74 three_12 staff_172 members_0 waited_4 hand_11 -_722 and_2378 -_723 foot_0 on_251 a_1337 pair_0 of_762 japanese_53 girls_0 seated_6 nearby_0 ._4036
+waiter_82
 -1
-on_257 a_1365 recent_5 trip_16 ,_2922 our_89 waiter_90 was_1189 extremely_24 dismiss_1 ##ive_13 ,_2923 while_43 no_102 less_10 than_78 three_14 $T$ waited_5 hand_8 -_724 and_2442 -_725 foot_1 on_258 a_1366 pair_1 of_770 japanese_59 girls_5 seated_7 nearby_1 ._4064
-staff_173 members_3
+on_252 a_1338 recent_5 trip_17 ,_2859 our_98 waiter_83 was_1165 extremely_23 dismiss_1 ##ive_13 ,_2860 while_39 no_105 less_9 than_75 three_13 $T$ waited_5 hand_12 -_724 and_2379 -_725 foot_1 on_253 a_1339 pair_1 of_763 japanese_54 girls_1 seated_7 nearby_1 ._4037
+staff_173 members_1
 -1
-they_251 pay_20 such_30 detail_1 to_932 everything_48 from_115 $T$ to_933 complex_0 rolls_59 ._4067
-mis_0 ##o_45 soup_36
+they_243 pay_18 such_30 detail_1 to_912 everything_47 from_115 $T$ to_913 complex_0 rolls_64 ._4040
+mis_0 ##o_52 soup_30
 1
-they_252 pay_21 such_31 detail_2 to_934 everything_49 from_116 mis_1 ##o_46 soup_37 to_935 complex_1 $T$ ._4068
-rolls_60
+they_244 pay_19 such_31 detail_2 to_914 everything_48 from_116 mis_1 ##o_53 soup_31 to_915 complex_1 $T$ ._4041
+rolls_65
 1
-the_4508 $T$ was_1190 the_4509 fresh_156 ##est_14 and_2443 most_82 tender_8 i_717 have_305 ever_62 tasted_35 ._4069
-sash_26 ##imi_27
+the_4366 $T$ was_1166 the_4367 fresh_150 ##est_14 and_2380 most_76 tender_6 i_903 have_303 ever_61 tasted_35 ._4042
+sash_29 ##imi_30
 1
-their_82 $T$ are_394 all_235 delicious_196 ._4070
+their_111 $T$ are_392 all_244 delicious_186 ._4043
 apps_0
 1
-the_4510 only_78 draw_3 ##back_1 is_1455 that_414 this_520 $T$ is_1456 really_142 expensive_36 and_2444 the_4511 portions_26 are_395 on_259 the_4512 small_59 side_31 ._4071
-place_372
+the_4368 only_78 draw_5 ##back_2 is_1431 that_417 this_516 $T$ is_1432 really_138 expensive_36 and_2381 the_4369 portions_28 are_393 on_254 the_4370 small_56 side_37 ._4044
+place_430
 -1
-but_519 the_4516 $T$ is_1459 small_61 and_2446 lovely_10 ,_2924 and_2447 the_4517 service_465 is_1460 helpful_14 ._4073
-space_17
+but_510 the_4374 $T$ is_1435 small_58 and_2383 lovely_10 ,_2861 and_2384 the_4375 service_559 is_1436 helpful_14 ._4046
+space_13
 1
-the_4524 $T$ even_92 spotted_0 that_416 my_152 table_32 was_1194 shaking_0 a_1367 stabilized_0 it_461 for_568 me_76 ._4077
-bus_0 boy_0
+the_4382 $T$ even_87 spotted_0 that_419 my_217 table_30 was_1170 shaking_0 a_1340 stabilized_0 it_518 for_561 me_68 ._4050
+bus_1 boy_0
 1
-the_4535 only_80 problem_13 is_1463 you_362 really_144 have_306 to_943 warm_50 up_88 the_4536 $T$ before_29 it_462 '_772 s_261 edible_3 ,_2931 even_93 when_74 you_363 order_39 ahead_1 ._4084
-pizza_156
+the_4393 only_80 problem_10 is_1439 you_446 really_140 have_304 to_923 warm_50 up_85 the_4394 $T$ before_27 it_519 '_761 s_243 edible_4 ,_2868 even_88 when_75 you_447 order_46 ahead_2 ._4057
+pizza_160
 -1
-every_56 time_75 `_46 `_47 0_2 -_734 sixty_0 ##nine_0 '_773 '_774 is_1464 called_9 the_4543 $T$ buys_0 everyone_38 drinks_93 !_492
-bartender_17
+every_60 time_80 `_46 `_47 0_2 -_734 sixty_0 ##nine_0 '_762 '_763 is_1440 called_8 the_4401 $T$ buys_0 everyone_32 drinks_94 !_490
+bartender_11
 1
-they_254 have_308 a_1375 wide_0 variety_12 of_778 $T$ and_2462 they_255 even_95 list_51 which_145 oceans_0 they_256 come_38 from_117 ;_48 atlantic_0 or_176 pacific_4 ._4103
-fish_108
+they_246 have_306 a_1348 wide_0 variety_9 of_771 $T$ and_2399 they_247 even_90 list_59 which_143 oceans_1 they_248 come_38 from_117 ;_48 atlantic_0 or_175 pacific_7 ._4076
+fish_101
 1
-my_157 only_81 negative_2 comment_1 is_1471 that_419 i_725 wish_19 the_4566 $T$ were_316 a_1376 little_85 bigger_4 ._4108
-pieces_6
+my_222 only_81 negative_2 comment_0 is_1447 that_422 i_911 wish_19 the_4424 $T$ were_313 a_1349 little_67 bigger_4 ._4081
+pieces_5
 -1
-the_4567 $T$ is_1472 rustic_0 ,_2951 traditional_6 japanese_60 ._4109
-decor_93
+the_4425 $T$ is_1448 rustic_0 ,_2888 traditional_6 japanese_55 ._4082
+decor_116
 0
-the_4568 $T$ is_1473 mixed_1 yu_29 ##pp_12 ##ies_3 ,_2952 young_4 and_2471 old_14 ._4110
+the_4426 $T$ is_1449 mixed_0 yu_30 ##pp_12 ##ies_3 ,_2889 young_2 and_2408 old_15 ._4083
 crowd_6
 0
-the_4570 outside_29 patio_5 area_26 has_141 an_136 abbreviated_0 $T$ ._4112
-menu_158
+the_4428 outside_23 patio_8 area_26 has_138 an_130 abbreviated_0 $T$ ._4085
+menu_152
 0
-we_484 are_401 locals_1 ,_2954 and_2476 get_148 the_4577 feeling_6 the_4578 only_83 way_48 this_523 $T$ survives_5 with_425 such_34 average_80 food_1088 is_1475 because_43 most_84 customers_10 are_402 probably_20 one_151 -_736 time_78 customer_9 tourists_1 ._4116
-place_378
+we_391 are_399 locals_1 ,_2891 and_2413 get_144 the_4435 feeling_9 the_4436 only_83 way_53 this_519 $T$ survives_5 with_420 such_34 average_76 food_1031 is_1451 because_44 most_78 customers_13 are_400 probably_20 one_133 -_736 time_83 customer_8 tourists_2 ._4089
+place_436
 -1
-the_4587 $T$ was_1207 a_1382 peaceful_2 and_2489 relaxing_6 break_0 amongst_0 all_240 the_4588 kids_3 running_0 around_22 in_565 downtown_4 disney_0 ._4124
-am_74 ##bian_16 ##ce_21
+the_4445 $T$ was_1183 a_1355 peaceful_2 and_2426 relaxing_7 break_1 amongst_0 all_249 the_4446 kids_2 running_0 around_20 in_565 downtown_7 disney_0 ._4097
+am_93 ##bian_21 ##ce_28
 1
-i_738 appreciate_0 their_87 $T$ too_135 ._4139
-delivery_20
+i_924 appreciate_0 their_116 $T$ too_133 ._4112
+delivery_22
 1
-i_740 had_312 yu_30 ##mmy_20 $T$ ,_2967 sa_10 ##ag_25 pan_11 ##eer_3 ,_2968 sam_0 ##osa_5 ##s_228 ,_2969 na_1 ##an_13 ,_2970 etc_0 ._4141
-lamb_19 ko_5 ##rma_3
+i_926 had_311 yu_31 ##mmy_20 $T$ ,_2904 sa_11 ##ag_25 pan_13 ##eer_3 ,_2905 sam_1 ##osa_9 ##s_318 ,_2906 na_1 ##an_16 ,_2907 etc_0 ._4114
+lamb_25 ko_5 ##rma_3
 1
-i_741 had_313 yu_31 ##mmy_21 lamb_20 ko_6 ##rma_4 ,_2971 $T$ ,_2972 sam_1 ##osa_6 ##s_229 ,_2973 na_2 ##an_14 ,_2974 etc_1 ._4142
-sa_11 ##ag_26 pan_12 ##eer_4
+i_927 had_312 yu_32 ##mmy_21 lamb_26 ko_6 ##rma_4 ,_2908 $T$ ,_2909 sam_2 ##osa_10 ##s_319 ,_2910 na_2 ##an_17 ,_2911 etc_1 ._4115
+sa_12 ##ag_26 pan_14 ##eer_4
 1
-i_742 had_314 yu_32 ##mmy_22 lamb_21 ko_7 ##rma_5 ,_2975 sa_12 ##ag_27 pan_13 ##eer_5 ,_2976 $T$ ,_2977 na_3 ##an_15 ,_2978 etc_2 ._4143
-sam_2 ##osa_7 ##s_230
+i_928 had_313 yu_33 ##mmy_22 lamb_27 ko_7 ##rma_5 ,_2912 sa_13 ##ag_27 pan_15 ##eer_5 ,_2913 $T$ ,_2914 na_3 ##an_18 ,_2915 etc_2 ._4116
+sam_3 ##osa_11 ##s_320
 1
-i_743 had_315 yu_33 ##mmy_23 lamb_22 ko_8 ##rma_6 ,_2979 sa_13 ##ag_28 pan_14 ##eer_6 ,_2980 sam_3 ##osa_8 ##s_231 ,_2981 $T$ ,_2982 etc_3 ._4144
-na_4 ##an_16
+i_929 had_314 yu_34 ##mmy_23 lamb_28 ko_8 ##rma_6 ,_2916 sa_14 ##ag_28 pan_16 ##eer_6 ,_2917 sam_4 ##osa_12 ##s_321 ,_2918 $T$ ,_2919 etc_3 ._4117
+na_4 ##an_19
 1
-i_744 should_26 have_310 thought_33 to_950 bring_2 it_470 up_91 but_531 never_109 expected_18 the_4602 $T$ to_951 be_216 that_422 mild_2 ._4147
-food_1098
+i_930 should_26 have_308 thought_32 to_930 bring_1 it_527 up_88 but_522 never_109 expected_18 the_4460 $T$ to_931 be_215 that_425 mild_2 ._4120
+food_1041
 -1
-–_35 i_750 do_142 n_252 '_786 understand_2 how_42 i_751 was_1216 a_1388 stranger_0 to_952 this_524 place_379 for_574 so_279 long_15 ._4151 ._4152 ._4153 the_4610 $T$ ,_2987 the_4611 colorado_0 ,_2988 the_4612 fa_2 ##jit_1 ##as_14 -_739 everything_50 is_1477 delicious_198 ._4154
-fa_3 ##jit_2 ##a_32 salad_64
+–_35 i_936 do_139 n_246 '_775 understand_2 how_41 i_937 was_1192 a_1361 stranger_0 to_932 this_520 place_437 for_567 so_279 long_12 ._4124 ._4125 ._4126 the_4468 $T$ ,_2924 the_4469 colorado_0 ,_2925 the_4470 fa_2 ##jit_1 ##as_20 -_739 everything_49 is_1453 delicious_188 ._4127
+fa_3 ##jit_2 ##a_38 salad_64
 1
-–_36 i_752 do_143 n_253 '_787 understand_3 how_43 i_753 was_1217 a_1389 stranger_1 to_953 this_525 place_380 for_575 so_280 long_16 ._4155 ._4156 ._4157 the_4613 fa_4 ##jit_3 ##a_33 salad_65 ,_2989 the_4614 $T$ ,_2990 the_4615 fa_5 ##jit_4 ##as_15 -_740 everything_51 is_1478 delicious_199 ._4158
+–_36 i_938 do_140 n_247 '_776 understand_3 how_42 i_939 was_1193 a_1362 stranger_1 to_933 this_521 place_438 for_568 so_280 long_13 ._4128 ._4129 ._4130 the_4471 fa_4 ##jit_3 ##a_39 salad_65 ,_2926 the_4472 $T$ ,_2927 the_4473 fa_5 ##jit_4 ##as_21 -_740 everything_50 is_1454 delicious_189 ._4131
 colorado_1
 1
-–_37 i_754 do_144 n_254 '_788 understand_4 how_44 i_755 was_1218 a_1390 stranger_2 to_954 this_526 place_381 for_576 so_281 long_17 ._4159 ._4160 ._4161 the_4616 fa_6 ##jit_5 ##a_34 salad_66 ,_2991 the_4617 colorado_2 ,_2992 the_4618 $T$ -_741 everything_52 is_1479 delicious_200 ._4162
-fa_7 ##jit_6 ##as_16
+–_37 i_940 do_141 n_248 '_777 understand_4 how_43 i_941 was_1194 a_1363 stranger_2 to_934 this_522 place_439 for_569 so_281 long_14 ._4132 ._4133 ._4134 the_4474 fa_6 ##jit_5 ##a_40 salad_66 ,_2928 the_4475 colorado_2 ,_2929 the_4476 $T$ -_741 everything_51 is_1455 delicious_190 ._4135
+fa_7 ##jit_6 ##as_22
 1
-–_38 i_756 do_145 n_255 '_789 understand_5 how_45 i_757 was_1219 a_1391 stranger_3 to_955 this_527 $T$ for_577 so_282 long_18 ._4163 ._4164 ._4165 the_4619 fa_8 ##jit_7 ##a_35 salad_67 ,_2993 the_4620 colorado_3 ,_2994 the_4621 fa_9 ##jit_8 ##as_17 -_742 everything_53 is_1480 delicious_201 ._4166
-place_382
+–_38 i_942 do_142 n_249 '_778 understand_5 how_44 i_943 was_1195 a_1364 stranger_3 to_935 this_523 $T$ for_570 so_282 long_15 ._4136 ._4137 ._4138 the_4477 fa_8 ##jit_7 ##a_41 salad_67 ,_2930 the_4478 colorado_3 ,_2931 the_4479 fa_9 ##jit_8 ##as_23 -_742 everything_52 is_1456 delicious_191 ._4139
+place_440
 1
-i_759 just_126 found_31 out_106 that_423 you_367 can_124 have_311 the_4623 $T$ to_956 yourself_7 on_266 nights_14 and_2507 weekends_2 for_578 a_1392 private_11 party_15 -_743 ca_39 n_256 '_790 wait_49 to_957 celebrate_1 my_169 next_10 birthday_3 there_106 ._4168
-place_383
+i_945 just_131 found_30 out_109 that_426 you_451 can_122 have_309 the_4481 $T$ to_936 yourself_7 on_261 nights_14 and_2444 weekends_4 for_571 a_1365 private_10 party_12 -_743 ca_42 n_250 '_779 wait_57 to_937 celebrate_0 my_234 next_9 birthday_2 there_119 ._4141
+place_441
 1
-i_760 am_75 never_110 disappointed_15 with_428 there_107 $T$ ._4169
-food_1099
+i_946 am_94 never_110 disappointed_15 with_423 there_120 $T$ ._4142
+food_1042
 1
-$T$ !_497 yu_34 ##m_27 !_498
-lebanese_0 food_1100
+$T$ !_495 yu_35 ##m_28 !_496
+lebanese_0 food_1043
 1
-–_40 i_769 '_795 ve_117 been_111 to_958 $T$ only_84 once_38 ,_3020 but_533 i_770 '_796 m_24 still_18 reeling_0 from_118 the_4629 experience_51 !_499 !_500
-open_10 sesame_2
-1
-the_4630 $T$ is_1486 simply_22 un_64 ##for_0 ##get_5 ##table_10 !_501
-food_1101
-1
-the_4639 staff_177 are_409 friendly_109 and_2512 the_4640 $T$ was_1223 et_2 ##hic_1 and_2513 colorful_1 ._4178
-decor_99
-1
-go_114 to_959 $T$ !_505 !_506 !_507
+–_40 i_955 '_784 ve_118 been_111 to_938 $T$ only_84 once_39 ,_2957 but_524 i_956 '_785 m_19 still_17 reeling_0 from_118 the_4487 experience_49 !_497 !_498
 open_11 sesame_3
 1
-holy_0 $T$ !_508
-hum_4 ##mus_4
+the_4488 $T$ is_1462 simply_22 un_68 ##for_0 ##get_5 ##table_11 !_499
+food_1044
 1
-–_41 the_4641 $T$ is_1487 here_122 is_1488 incredible_31 ,_3023 though_65 the_4642 quality_73 is_1489 inconsistent_2 during_7 lunch_19 ._4179
-food_1104
+the_4497 staff_177 are_407 friendly_109 and_2449 the_4498 $T$ was_1199 et_2 ##hic_1 and_2450 colorful_1 ._4151
+decor_122
 1
-–_42 the_4643 food_1105 is_1490 here_123 is_1491 incredible_32 ,_3024 though_66 the_4644 quality_74 is_1492 inconsistent_3 during_8 $T$ ._4180
-lunch_20
+go_114 to_939 $T$ !_503 !_504 !_505
+open_12 sesame_4
+1
+holy_0 $T$ !_506
+hum_5 ##mus_5
+1
+–_41 the_4499 $T$ is_1463 here_120 is_1464 incredible_30 ,_2960 though_63 the_4500 quality_60 is_1465 inconsistent_2 during_6 lunch_20 ._4152
+food_1047
+1
+–_42 the_4501 food_1048 is_1466 here_121 is_1467 incredible_31 ,_2961 though_64 the_4502 quality_61 is_1468 inconsistent_3 during_7 $T$ ._4153
+lunch_21
 -1
-the_4645 $T$ is_1493 a_1393 bargain_5 for_579 the_4646 heap_0 of_796 food_1107 given_12 ._4182
-open_12 sesame_4 combo_1 plate_22
+the_4503 $T$ is_1469 a_1366 bargain_5 for_572 the_4504 heap_0 of_789 food_1050 given_11 ._4155
+open_13 sesame_5 combo_1 plate_22
 1
-the_4647 $T$ is_1494 a_1394 bargain_6 for_580 the_4648 heap_1 of_797 food_1108 given_13 ._4183
-open_13 sesame_5 combo_2 plate_23
+the_4505 $T$ is_1470 a_1367 bargain_6 for_573 the_4506 heap_1 of_790 food_1051 given_12 ._4156
+open_14 sesame_6 combo_2 plate_23
 1
-the_4649 $T$ is_1495 to_960 die_15 for_581 ,_3026 as_189 is_1496 the_4650 lab_1 ##ne_2 (_286 yo_0 ##gur_0 ##t_58 dip_0 )_310 ._4184
-side_33 of_798 potatoes_18
+the_4507 $T$ is_1471 to_940 die_15 for_574 ,_2963 as_189 is_1472 the_4508 lab_0 ##ne_4 (_286 yo_0 ##gur_0 ##t_71 dip_0 )_307 ._4157
+side_39 of_791 potatoes_19
 1
-the_4651 side_34 of_799 potatoes_19 is_1497 to_961 die_16 for_582 ,_3027 as_190 is_1498 the_4652 $T$ ._4185
-lab_2 ##ne_3 (_287 yo_1 ##gur_1 ##t_59 dip_1 )_311
+the_4509 side_40 of_792 potatoes_20 is_1473 to_941 die_16 for_575 ,_2964 as_190 is_1474 the_4510 $T$ ._4158
+lab_1 ##ne_5 (_287 yo_1 ##gur_1 ##t_72 dip_1 )_308
 1
-the_4657 only_85 draw_5 ##back_3 is_1501 the_4658 crowded_18 $T$ and_2514 the_4659 slow_20 service_477 ._4186
-seating_11
+the_4515 only_85 draw_7 ##back_4 is_1477 the_4516 crowded_18 $T$ and_2451 the_4517 slow_20 service_571 ._4159
+seating_13
 -1
-the_4660 only_86 draw_6 ##back_4 is_1502 the_4661 crowded_19 seating_12 and_2515 the_4662 slow_21 $T$ ._4187
-service_478
+the_4518 only_86 draw_8 ##back_5 is_1478 the_4519 crowded_19 seating_14 and_2452 the_4520 slow_21 $T$ ._4160
+service_572
 -1
-however_60 ,_3034 this_532 $T$ is_1503 a_1397 gem_10 ,_3035 and_2516 i_773 wo_10 n_257 '_797 stop_4 going_34 back_64 ._4188
-place_388
+however_58 ,_2971 this_528 $T$ is_1479 a_1370 gem_13 ,_2972 and_2453 i_959 wo_10 n_251 '_786 stop_4 going_32 back_60 ._4161
+place_446
 1
-we_490 did_80 have_316 the_4676 same_28 $T$ the_4677 second_9 time_80 ,_3049 so_283 maybe_15 the_4678 service_481 is_1504 spot_39 ##ty_10 and_2533 our_90 luck_0 is_1505 good_574 ._4198
-waiter_93
+we_397 did_82 have_314 the_4534 same_20 $T$ the_4535 second_7 time_85 ,_2986 so_283 maybe_14 the_4536 service_575 is_1480 spot_50 ##ty_13 and_2470 our_99 luck_0 is_1481 good_566 ._4171
+waiter_86
 1
-i_776 would_126 go_115 back_65 for_585 the_4681 $T$ experience_53 alone_12 ._4202
-wine_123
+i_962 would_123 go_115 back_61 for_578 the_4539 $T$ experience_51 alone_12 ._4175
+wine_129
 1
-not_402 the_4682 $T$ it_478 once_39 was_1230
-place_389
+not_392 the_4540 $T$ it_535 once_40 was_1206
+place_447
 -1
-–_45 it_479 is_1509 sad_1 to_966 see_16 a_1407 $T$ that_424 was_1231 once_40 `_48 `_49 the_4683 '_801 '_802 to_967 meet_2 and_2535 eat_64 for_586 bf_2 ##ast_0 or_181 lunch_21 ,_3052 now_18 be_217 the_4684 that_425 is_1510 a_1408 big_38 `_50 `_51 don_21 ##t_60 bother_2 ._4203 '_803 '_804
-place_390
+–_45 it_536 is_1485 sad_0 to_946 see_16 a_1380 $T$ that_427 was_1207 once_41 `_48 `_49 the_4541 '_790 '_791 to_947 meet_2 and_2472 eat_59 for_579 bf_3 ##ast_0 or_180 lunch_22 ,_2989 now_19 be_216 the_4542 that_428 is_1486 a_1381 big_34 `_50 `_51 don_22 ##t_73 bother_2 ._4176 '_792 '_793
+place_448
 -1
-this_535 $T$ really_148 made_72 a_1409 marked_1 decline_0 after_32 (_300 and_2540 this_536 is_1520 recurring_0 story_1 )_324 the_4699 airing_0 of_809 food_1113 television_1 ##s_246 `_52 `_53 diner_10 ##s_247 ,_3057 drive_4 -_746 ins_0 ,_3058 and_2541 dive_1 ##s_248 '_805 '_806 hosted_0 by_104 guy_6 fi_0 ##eri_6 ,_3059 in_578 which_149 schooner_0 or_182 later_6 was_1236 subject_0 of_810 ._4209
+this_531 $T$ really_144 made_69 a_1382 marked_0 decline_0 after_31 (_300 and_2477 this_532 is_1496 recurring_0 story_3 )_321 the_4557 airing_0 of_802 food_1056 television_0 ##s_336 `_52 `_53 diner_13 ##s_337 ,_2994 drive_4 -_746 ins_0 ,_2995 and_2478 dive_0 ##s_338 '_794 '_795 hosted_0 by_101 guy_6 fi_0 ##eri_8 ,_2996 in_578 which_147 schooner_0 or_181 later_4 was_1212 subject_1 of_803 ._4182
 establishment_12
 -1
-perhaps_5 now_19 ,_3060 $T$ falls_0 into_16 the_4700 `_54 `_55 dive_2 '_807 '_808 category_1 ._4210
-sc_13 ##oon_0 ##er_16 or_183 later_7
+perhaps_4 now_20 ,_2997 $T$ falls_0 into_15 the_4558 `_54 `_55 dive_1 '_796 '_797 category_3 ._4183
+sc_21 ##oon_0 ##er_21 or_182 later_5
 -1
-i_781 hope_8 one_152 day_44 $T$ returns_0 to_969 what_71 it_484 once_45 was_1237 ._4211
-sc_14 ##oon_1 ##er_17 or_184 later_8
+i_967 hope_8 one_134 day_28 $T$ returns_0 to_949 what_95 it_541 once_46 was_1213 ._4184
+sc_22 ##oon_1 ##er_22 or_183 later_6
 -1
-this_537 $T$ is_1522 charming_6 and_2546 relaxing_7 ._4216
-place_394
+this_533 $T$ is_1498 charming_6 and_2483 relaxing_8 ._4189
+place_452
 1
-the_4705 $T$ are_410 always_128 friendly_111 and_2547 helpful_16 ._4217
-servers_8 behind_0 the_4706 counter_3
+the_4563 $T$ are_408 always_118 friendly_111 and_2484 helpful_16 ._4190
+servers_12 behind_0 the_4564 counter_3
 1
-–_48 after_33 12_0 years_38 in_579 seattle_3 $T$ rates_0 as_195 the_4707 place_397 we_491 always_129 go_116 back_66 to_972 ._4220
-ray_2 '_811 s_270
+–_48 after_32 12_0 years_33 in_579 seattle_3 $T$ rates_0 as_195 the_4565 place_455 we_398 always_119 go_116 back_62 to_952 ._4193
+ray_1 '_800 s_252
 1
-$T$ was_1241 kind_18 of_811 slow_22 ,_3068 our_91 waitress_38 took_34 forever_0 to_973 give_11 us_74 our_92 check_16 even_101 though_67 it_488 was_1242 n_258 '_812 that_426 busy_18 ._4228
-service_489
+$T$ was_1217 kind_22 of_804 slow_22 ,_3005 our_100 waitress_38 took_34 forever_0 to_953 give_11 us_80 our_101 check_14 even_96 though_65 it_545 was_1218 n_252 '_801 that_429 busy_18 ._4201
+service_583
 -1
-service_490 was_1243 kind_19 of_812 slow_23 ,_3069 our_93 $T$ took_35 forever_1 to_974 give_12 us_75 our_94 check_17 even_102 though_68 it_489 was_1244 n_259 '_813 that_427 busy_19 ._4229
+service_584 was_1219 kind_23 of_805 slow_23 ,_3006 our_102 $T$ took_35 forever_1 to_954 give_12 us_81 our_103 check_15 even_97 though_66 it_546 was_1220 n_253 '_802 that_430 busy_19 ._4202
 waitress_39
 -1
-–_50 eggs_15 ,_3073 $T$ ,_3074 potatoes_21 ,_3075 fresh_158 fruit_9 and_2557 yo_3 ##gur_3 ##t_62 -_749 -_750 everything_59 they_265 serve_36 is_1524 delicious_205 ._4232
-pancakes_6
+–_50 eggs_17 ,_3010 $T$ ,_3011 potatoes_22 ,_3012 fresh_152 fruit_5 and_2494 yo_3 ##gur_3 ##t_75 -_749 -_750 everything_58 they_257 serve_32 is_1500 delicious_195 ._4205
+pancakes_5
 1
-–_51 eggs_16 ,_3076 pancakes_7 ,_3077 $T$ ,_3078 fresh_159 fruit_10 and_2558 yo_4 ##gur_4 ##t_63 -_751 -_752 everything_60 they_266 serve_37 is_1525 delicious_206 ._4233
-potatoes_22
+–_51 eggs_18 ,_3013 pancakes_6 ,_3014 $T$ ,_3015 fresh_153 fruit_6 and_2495 yo_4 ##gur_4 ##t_76 -_751 -_752 everything_59 they_258 serve_33 is_1501 delicious_196 ._4206
+potatoes_23
 1
-–_52 eggs_17 ,_3079 pancakes_8 ,_3080 potatoes_23 ,_3081 $T$ and_2559 yo_5 ##gur_5 ##t_64 -_753 -_754 everything_61 they_267 serve_38 is_1526 delicious_207 ._4234
-fresh_160 fruit_11
+–_52 eggs_19 ,_3016 pancakes_7 ,_3017 potatoes_24 ,_3018 $T$ and_2496 yo_5 ##gur_5 ##t_77 -_753 -_754 everything_60 they_259 serve_34 is_1502 delicious_197 ._4207
+fresh_154 fruit_7
 1
-–_53 eggs_18 ,_3082 pancakes_9 ,_3083 potatoes_24 ,_3084 fresh_161 fruit_12 and_2560 $T$ -_755 -_756 everything_62 they_268 serve_39 is_1527 delicious_208 ._4235
-yo_6 ##gur_6 ##t_65
+–_53 eggs_20 ,_3019 pancakes_8 ,_3020 potatoes_25 ,_3021 fresh_155 fruit_8 and_2497 $T$ -_755 -_756 everything_61 they_260 serve_35 is_1503 delicious_198 ._4208
+yo_6 ##gur_6 ##t_78
 1
-plus_7 ,_3086 i_785 am_77 allergic_1 to_975 rice_63 ,_3087 and_2561 the_4718 $T$ was_1251 un_65 ##bel_0 ##ie_8 ##va_0 ##bly_2 acc_13 ##omo_11 ##dating_11 -_765 -_766 did_81 n_260 '_815 even_103 bat_0 an_141 eye_6 !_522
-waits_9 ##taff_9
+plus_6 ,_3023 i_971 am_96 allergic_0 to_955 rice_71 ,_3024 and_2498 the_4576 $T$ was_1227 un_69 ##bel_0 ##ie_8 ##va_0 ##bly_2 acc_13 ##omo_11 ##dating_11 -_765 -_766 did_83 n_254 '_804 even_98 bat_0 an_135 eye_9 !_520
+waits_14 ##taff_14
 1
-un_66 ##beat_0 ##able_16 $T$ !_527
-su_114 ##shi_106
+un_70 ##beat_0 ##able_16 $T$ !_525
+su_142 ##shi_132
 1
-melt_4 in_580 your_97 mouth_5 $T$ and_2564 sash_27 ##mi_2 ,_3088 and_2565 very_377 ta_95 ##sty_80 rolls_61 too_142 ._4237
+melt_4 in_580 your_113 mouth_7 $T$ and_2501 sash_30 ##mi_2 ,_3025 and_2502 very_358 ta_97 ##sty_80 rolls_66 too_140 ._4210
 ni_2 ##giri_2
 1
-melt_5 in_581 your_98 mouth_6 ni_3 ##giri_3 and_2566 $T$ ,_3089 and_2567 very_378 ta_96 ##sty_81 rolls_62 too_143 ._4238
-sash_28 ##mi_3
+melt_5 in_581 your_114 mouth_8 ni_3 ##giri_3 and_2503 $T$ ,_3026 and_2504 very_359 ta_98 ##sty_81 rolls_67 too_141 ._4211
+sash_31 ##mi_3
 1
-be_219 sure_32 to_976 try_87 the_4721 $T$ ._4240
-oyster_14 roll_35
+be_218 sure_32 to_956 try_83 the_4579 $T$ ._4213
+oyster_12 roll_45
 1
-a_1418 cozy_20 $T$ for_589 2_46
-spot_40
+a_1391 cozy_20 $T$ for_582 2_44
+spot_51
 1
-–_57 i_789 ca_42 n_263 '_818 believe_10 $T$ has_145 been_113 around_23 for_590 over_137 25_8 years_39 ,_3101 amazing_115 ._4246
-murphy_0 '_819 s_272
+–_57 i_975 ca_45 n_257 '_807 believe_10 $T$ has_142 been_113 around_21 for_583 over_134 25_8 years_34 ,_3038 amazing_114 ._4219
+murphy_0 '_808 s_254
 1
-$T$ at_334 murphy_1 '_820 s_273 is_1529 to_978 die_17 for_591 ,_3102 my_174 specialty_0 ._4247 ._4248 ._4249 egg_20 white_12 om_3 ##ele_7 ##t_66 ,_3103 the_4727 food_1126 is_1530 always_130 freshly_4 prepared_29 ._4250
-br_14 ##un_6 ##ch_4
+$T$ at_324 murphy_1 '_809 s_255 is_1505 to_958 die_17 for_584 ,_3039 my_239 specialty_2 ._4220 ._4221 ._4222 egg_21 white_6 om_4 ##ele_8 ##t_79 ,_3040 the_4585 food_1069 is_1506 always_120 freshly_4 prepared_28 ._4223
+br_18 ##un_8 ##ch_6
 1
-br_15 ##un_7 ##ch_5 at_335 murphy_2 '_821 s_274 is_1531 to_979 die_18 for_592 ,_3104 my_175 specialty_1 ._4251 ._4252 ._4253 egg_21 white_13 om_4 ##ele_8 ##t_67 ,_3105 the_4728 $T$ is_1532 always_131 freshly_5 prepared_30 ._4254
-food_1127
+br_19 ##un_9 ##ch_7 at_325 murphy_2 '_810 s_256 is_1507 to_959 die_18 for_585 ,_3041 my_240 specialty_3 ._4224 ._4225 ._4226 egg_22 white_7 om_5 ##ele_9 ##t_80 ,_3042 the_4586 $T$ is_1508 always_121 freshly_5 prepared_29 ._4227
+food_1070
 1
-br_16 ##un_8 ##ch_6 at_336 murphy_3 '_822 s_275 is_1533 to_980 die_19 for_593 ,_3106 my_176 specialty_2 ._4255 ._4256 ._4257 $T$ ,_3107 the_4729 food_1128 is_1534 always_132 freshly_6 prepared_31 ._4258
-egg_22 white_14 om_5 ##ele_9 ##t_68
+br_20 ##un_10 ##ch_8 at_326 murphy_3 '_811 s_257 is_1509 to_960 die_19 for_586 ,_3043 my_241 specialty_4 ._4228 ._4229 ._4230 $T$ ,_3044 the_4587 food_1071 is_1510 always_122 freshly_6 prepared_30 ._4231
+egg_23 white_8 om_6 ##ele_10 ##t_81
 1
-save_8 room_34 for_598 sc_15 ##rum_0 ##pt_0 ##ious_12 $T$ ._4259
-dessert_102 ##s_250
+save_7 room_36 for_591 sc_23 ##rum_0 ##pt_0 ##ious_13 $T$ ._4232
+dessert_94 ##s_340
 1
-the_4732 restaurant_308 offers_11 an_142 extensive_22 $T$ and_2571 an_143 am_78 ##bian_17 ##ce_22 you_371 wo_11 n_264 '_825 forget_5 !_530
-wine_124 list_53
+the_4590 restaurant_289 offers_10 an_136 extensive_22 $T$ and_2508 an_137 am_97 ##bian_22 ##ce_29 you_455 wo_11 n_258 '_814 forget_5 !_528
+wine_130 list_61
 1
-the_4733 restaurant_309 offers_12 an_144 extensive_23 wine_125 list_54 and_2572 an_145 $T$ you_372 wo_12 n_265 '_826 forget_6 !_531
-am_79 ##bian_18 ##ce_23
+the_4591 restaurant_290 offers_11 an_138 extensive_23 wine_131 list_62 and_2509 an_139 $T$ you_456 wo_12 n_259 '_815 forget_6 !_529
+am_98 ##bian_23 ##ce_30
 1
-the_4738 $T$ have_330 been_114 at_337 the_4739 restaurant_310 for_600 years_40 and_2579 cook_13 family_36 recipes_0 ._4264
+the_4596 $T$ have_328 been_114 at_327 the_4597 restaurant_291 for_593 years_35 and_2516 cook_7 family_32 recipes_1 ._4237
 cooks_0
 1
-can_127 get_149 busy_20 on_269 fridays_3 for_601 a_1423 table_33 but_534 once_46 seated_8 ,_3108 the_4740 $T$ is_1535 so_284 efficient_0 you_373 can_128 be_223 in_586 and_2580 out_110 of_817 there_111 quickly_5 ._4265
-service_491
+can_125 get_145 busy_20 on_264 fridays_1 for_594 a_1396 table_31 but_525 once_47 seated_8 ,_3045 the_4598 $T$ is_1511 so_284 efficient_0 you_457 can_126 be_222 in_586 and_2517 out_113 of_810 there_124 quickly_5 ._4238
+service_585
 1
-the_4745 $T$ was_1256 just_129 okay_8 ._4268
-atmosphere_108
+the_4603 $T$ was_1232 just_134 okay_8 ._4241
+atmosphere_121
 0
-$T$ was_1257 limited_22 ,_3109 but_535 the_4746 food_1129 made_73 up_96 for_602 it_492 ._4269
-space_19
+$T$ was_1233 limited_22 ,_3046 but_526 the_4604 food_1072 made_70 up_93 for_595 it_549 ._4242
+space_15
 -1
-space_20 was_1258 limited_23 ,_3110 but_536 the_4747 $T$ made_74 up_97 for_603 it_493 ._4270
-food_1130
+space_16 was_1234 limited_23 ,_3047 but_527 the_4605 $T$ made_71 up_94 for_596 it_550 ._4243
+food_1073
 1
-well_111 i_790 guess_5 it_494 '_827 s_278 hard_12 to_984 be_224 seated_9 when_75 one_154 is_1536 invisible_0 to_985 the_4748 $T$ ._4271
+well_109 i_976 guess_5 it_551 '_816 s_260 hard_10 to_964 be_223 seated_9 when_76 one_136 is_1512 invisible_0 to_965 the_4606 $T$ ._4244
 staff_180
 -1
-we_492 stood_0 there_112 for_604 10_16 minutes_12 while_44 $T$ walked_10 back_70 and_2583 forth_0 ignoring_0 us_76 ._4272
-employees_0
+we_399 stood_0 there_125 for_597 10_16 minutes_11 while_40 $T$ walked_10 back_66 and_2520 forth_0 ignoring_0 us_82 ._4245
+employees_1
 -1
-finally_6 ,_3111 my_177 wife_9 stood_1 face_0 to_986 face_1 in_587 front_15 of_818 one_155 of_819 the_4749 $T$ and_2584 she_29 asked_35 ,_3112 `_56 `_57 are_411 you_374 waiting_3 for_605 a_1424 table_34 ?_22 '_828 '_829
+finally_6 ,_3048 my_242 wife_14 stood_1 face_2 to_966 face_3 in_587 front_14 of_811 one_137 of_812 the_4607 $T$ and_2521 she_23 asked_34 ,_3049 `_56 `_57 are_409 you_458 waiting_4 for_598 a_1397 table_32 ?_21 '_817 '_818
 staff_181
 -1
-the_4750 $T$ i_791 ordered_41 had_326 so_285 much_65 lemon_9 i_792 could_66 n_266 '_830 eat_65 it_495 ._4273
+the_4608 $T$ i_977 ordered_42 had_325 so_285 much_61 lemon_13 i_978 could_64 n_260 '_819 eat_60 it_552 ._4246
 caesar_4 salad_72
 -1
-–_59 this_542 is_1537 one_156 of_820 my_178 top_53 lunch_23 spots_3 ,_3115 huge_39 $T$ ,_3116 fast_48 service_492 and_2585 amazing_116 margarita_13 ##s_253 !_534 !_535
-portions_28
+–_59 this_538 is_1513 one_138 of_813 my_243 top_56 lunch_24 spots_3 ,_3052 huge_40 $T$ ,_3053 fast_50 service_586 and_2522 amazing_115 margarita_12 ##s_343 !_532 !_533
+portions_30
 1
-–_60 this_543 is_1538 one_157 of_821 my_179 top_54 lunch_24 spots_4 ,_3117 huge_40 portions_29 ,_3118 fast_49 $T$ and_2586 amazing_117 margarita_14 ##s_254 !_536 !_537
-service_493
+–_60 this_539 is_1514 one_139 of_814 my_244 top_57 lunch_25 spots_4 ,_3054 huge_41 portions_31 ,_3055 fast_51 $T$ and_2523 amazing_116 margarita_13 ##s_344 !_534 !_535
+service_587
 1
-–_61 this_544 is_1539 one_158 of_822 my_180 top_55 lunch_25 spots_5 ,_3119 huge_41 portions_30 ,_3120 fast_50 service_494 and_2587 amazing_118 $T$ !_538 !_539
-margarita_15 ##s_255
+–_61 this_540 is_1515 one_140 of_815 my_245 top_58 lunch_26 spots_5 ,_3056 huge_42 portions_32 ,_3057 fast_52 service_588 and_2524 amazing_117 $T$ !_536 !_537
+margarita_14 ##s_345
 1
-check_21 out_111 the_4753 $T$ ,_3124 very_380 colorful_2 !_541
-art_2 on_271 the_4754 walls_6
+check_19 out_114 the_4611 $T$ ,_3061 very_361 colorful_2 !_539
+art_3 on_266 the_4612 walls_5
 1
-plenty_7 of_823 $T$ ,_3125 trust_3 me_84 ._4276
-food_1134
+plenty_4 of_816 $T$ ,_3062 trust_2 me_76 ._4249
+food_1077
 1
-fresh_162 $T$ and_2589 super_15 ta_98 ##sty_83 ._4277
-ing_2 ##red_0 ##ian_0 ##ts_2
+fresh_156 $T$ and_2526 super_16 ta_100 ##sty_83 ._4250
+ing_1 ##red_0 ##ian_0 ##ts_4
 1
-–_63 this_548 $T$ is_1546 un_67 ##bel_1 ##ie_9 ##va_1 ##bly_3 over_139 -_770 rated_2 ._4283
-place_405
+–_63 this_544 $T$ is_1522 un_71 ##bel_1 ##ie_9 ##va_1 ##bly_3 over_136 -_770 rated_2 ._4256
+place_463
 -1
-if_164 i_797 want_38 to_992 stand_2 in_589 line_1 on_272 sunday_7 for_610 an_147 hour_10 to_993 get_151 average_81 $T$ ,_3132 then_21 i_798 would_128 put_7 murphy_4 '_833 s_281 at_339 the_4770 top_56 of_826 the_4771 list_55 ._4284
-br_17 ##un_9 ##ch_7 food_1137
+if_163 i_983 want_38 to_972 stand_4 in_589 line_0 on_267 sunday_6 for_603 an_141 hour_11 to_973 get_147 average_77 $T$ ,_3069 then_20 i_984 would_125 put_7 murphy_4 '_822 s_263 at_329 the_4628 top_59 of_819 the_4629 list_63 ._4257
+br_21 ##un_11 ##ch_9 food_1080
 0
-the_4772 $T$ here_124 is_1547 slightly_15 above_25 average_82 that_431 is_1548 not_410 worth_69 the_4773 s_282 ##not_0 ##ty_11 attitude_5 that_432 you_377 receive_0 ._4285
-regular_18 menu_163
+the_4630 $T$ here_122 is_1523 slightly_12 above_23 average_78 that_434 is_1524 not_400 worth_70 the_4631 s_264 ##not_0 ##ty_14 attitude_6 that_435 you_461 receive_0 ._4258
+regular_17 menu_157
 0
-there_116 is_1549 only_89 one_160 $T$ on_273 the_4774 east_21 coast_0 that_433 has_148 it_497 all_250 ,_3783 plus_8 a_1506 lot_43 more_123 ._4312
-place_406
+there_129 is_1525 only_89 one_142 $T$ on_268 the_4632 east_20 coast_0 that_436 has_145 it_554 all_259 ,_3720 plus_7 a_1479 lot_42 more_120 ._4285
+place_464
 1
-i_800 know_21 many_38 people_48 have_338 their_91 favorite_39 types_11 of_879 $T$ and_2651 places_11 ,_3787 but_539 mi_16 ##op_32 ##ost_5 ##o_51 '_840 s_289 lacks_0 quality_79 and_2652 good_582 taste_44 ._4326
-pizza_170
+i_986 know_21 many_31 people_52 have_336 their_120 favorite_36 types_12 of_872 $T$ and_2588 places_11 ,_3724 but_530 mi_17 ##op_33 ##ost_5 ##o_58 '_829 s_271 lacks_0 quality_66 and_2589 good_574 taste_42 ._4299
+pizza_174
 -1
-to_997 be_227 honest_0 ,_3788 i_801 '_841 ve_118 had_329 better_54 frozen_12 $T$ ._4327
-pizza_171
+to_977 be_226 honest_0 ,_3725 i_987 '_830 ve_119 had_328 better_54 frozen_9 $T$ ._4300
+pizza_175
 -1
-i_802 was_1266 frankly_4 shocked_3 when_76 i_803 read_6 the_4793 bad_67 reviews_25 -_771 this_549 $T$ is_1552 fantastic_64 ;_49 it_499 has_149 not_411 let_6 us_77 down_25 in_593 any_56 way_53 ,_3789 and_2653 we_493 '_842 ve_119 eaten_15 here_125 more_124 than_84 10_17 times_42 ._4330
-place_407
+i_988 was_1242 frankly_2 shocked_3 when_77 i_989 read_6 the_4651 bad_63 reviews_15 -_771 this_545 $T$ is_1528 fantastic_61 ;_49 it_556 has_146 not_401 let_6 us_83 down_25 in_593 any_52 way_58 ,_3726 and_2590 we_400 '_831 ve_120 eaten_14 here_123 more_121 than_81 10_17 times_46 ._4303
+place_465
 1
-the_4798 only_92 problem_14 would_129 be_228 the_4799 $T$ ,_3792 but_540 we_496 usually_26 just_130 have_339 a_1507 drink_16 in_594 the_4800 front_16 while_45 ing_3 ._4333
-wait_55
+the_4656 only_92 problem_11 would_126 be_227 the_4657 $T$ ,_3729 but_531 we_403 usually_24 just_135 have_337 a_1480 drink_14 in_594 the_4658 front_15 while_41 ing_2 ._4306
+wait_63
 0
-$T$ plus_9
-seafood_47
+$T$ plus_8
+seafood_33
 1
-$T$ was_1268 superb_11 ._4336
+$T$ was_1244 superb_10 ._4309
 caesar_5 salad_73
 1
-leave_3 room_35 for_615 $T$ ._4338
-dessert_103
+leave_2 room_37 for_608 $T$ ._4311
+dessert_95
 1
-we_497 had_330 a_1509 very_381 hard_13 time_86 getting_13 the_4811 $T$ '_845 attention_6 and_2656 finally_7 had_331 to_998 get_153 up_99 and_2657 go_117 inside_15 to_999 speak_0 to_1000 a_1510 manager_20 ._4341
+we_404 had_329 a_1482 very_362 hard_11 time_91 getting_12 the_4669 $T$ '_834 attention_9 and_2593 finally_7 had_330 to_978 get_149 up_96 and_2594 go_117 inside_15 to_979 speak_0 to_980 a_1483 manager_25 ._4314
 waitress_40
 -1
-as_203 it_500 turns_0 out_112 the_4812 $T$ was_1277 seated_10 right_28 next_12 to_1001 us_78 and_2658 when_77 he_45 came_33 over_142 to_1002 check_22 on_275 our_95 problems_3 was_1278 very_382 dismiss_2 ##ive_14 and_2659 offered_13 a_1511 token_0 20_10 %_8 discount_1 on_276 our_96 bill_9 ._4342
-owner_8
+as_203 it_557 turns_0 out_115 the_4670 $T$ was_1253 seated_10 right_25 next_11 to_981 us_84 and_2595 when_78 he_41 came_33 over_139 to_982 check_20 on_270 our_104 problems_0 was_1254 very_363 dismiss_2 ##ive_14 and_2596 offered_12 a_1484 token_0 20_10 %_6 discount_0 on_271 our_105 bill_12 ._4315
+owner_12
 -1
-avoid_6 the_4813 $T$
-place_408
+avoid_6 the_4671 $T$
+place_466
 -1
-when_78 i_804 got_49 there_119 i_805 sat_10 up_100 stairs_6 where_29 the_4814 $T$ was_1279 cozy_21 &_13 the_4815 service_506 was_1280 horrible_33 !_544
-atmosphere_109
+when_79 i_990 got_49 there_132 i_991 sat_9 up_97 stairs_8 where_27 the_4672 $T$ was_1255 cozy_21 &_13 the_4673 service_600 was_1256 horrible_33 !_542
+atmosphere_122
 1
-i_808 waited_6 for_616 10_18 -_772 15_8 minutes_13 for_617 $T$ ordered_42 a_1512 beer_21 &_15 was_1283 never_114 served_29 again_37 ._4343
-service_508
+i_994 waited_6 for_609 10_18 -_772 15_8 minutes_12 for_610 $T$ ordered_43 a_1485 beer_19 &_15 was_1259 never_114 served_31 again_34 ._4316
+service_602
 -1
-i_809 went_30 home_30 &_16 looked_14 them_24 up_102 online_0 again_38 where_31 i_810 discovered_2 there_121 is_1555 a_1513 link_0 for_618 a_1514 give_13 away_32 that_436 does_59 n_267 '_846 work_24 so_290 email_0 ##ed_45 the_4818 $T$ about_132 the_4819 non_14 existent_5 service_509 &_17 dec_0 ##eptive_0 link_1 ._4344
-restaurant_312
+i_995 went_30 home_33 &_16 looked_14 them_14 up_99 online_0 again_35 where_29 i_996 discovered_2 there_134 is_1531 a_1486 link_0 for_611 a_1487 give_13 away_32 that_439 does_59 n_261 '_835 work_29 so_290 email_0 ##ed_47 the_4676 $T$ about_130 the_4677 non_11 existent_5 service_603 &_17 dec_0 ##eptive_0 link_1 ._4317
+restaurant_293
 -1
-after_37 sitting_18 at_340 the_4820 bar_46 for_619 over_143 20_11 minutes_14 the_4821 $T$ had_332 made_76 only_93 2_49 drinks_96 &_18 kept_6 telling_2 us_79 she_30 '_847 d_39 be_229 right_29 with_446 us_80 ._4345
-bar_47 keep_21
+after_36 sitting_18 at_330 the_4678 bar_56 for_612 over_140 20_11 minutes_13 the_4679 $T$ had_331 made_73 only_93 2_47 drinks_97 &_18 kept_6 telling_2 us_85 she_24 '_836 d_43 be_228 right_26 with_441 us_86 ._4318
+bar_57 keep_22
 -1
-we_498 left_18 without_16 ever_65 getting_14 $T$ ._4346
-service_510
+we_405 left_19 without_16 ever_64 getting_13 $T$ ._4319
+service_604
 -1
-–_66 that_437 ##s_285 a_1515 big_39 statement_0 considering_10 i_811 '_848 ve_122 been_120 pulling_0 crab_65 traps_0 and_2660 making_6 the_4822 $T$ myself_8 since_21 i_812 was_1284 about_133 seven_3 -_773 but_543 something_19 about_134 these_23 little_90 devils_0 gets_14 better_55 every_59 time_87 ._4347
-cakes_3
+–_66 that_440 ##s_375 a_1488 big_35 statement_1 considering_10 i_997 '_837 ve_123 been_120 pulling_0 crab_58 traps_0 and_2597 making_8 the_4680 $T$ myself_6 since_21 i_998 was_1260 about_131 seven_0 -_773 but_534 something_9 about_132 these_21 little_72 devils_0 gets_14 better_55 every_63 time_92 ._4320
+cakes_2
 1
-if_165 you_405 can_132 ,_3797 come_39 to_1003 this_550 $T$ by_105 boat_0 and_2661 make_83 it_501 a_1516 whole_24 evening_16 ._4348
-place_409
+if_164 you_489 can_130 ,_3734 come_39 to_983 this_546 $T$ by_102 boat_0 and_2598 make_83 it_558 a_1489 whole_20 evening_14 ._4321
+place_467
 1
-great_762 $T$ ,_3801 poor_22 service_511
-pizza_172
+great_744 $T$ ,_3738 poor_22 service_605
+pizza_176
 1
-great_763 pizza_173 ,_3802 poor_23 $T$
-service_512
+great_745 pizza_177 ,_3739 poor_23 $T$
+service_606
 -1
-prefer_0 to_1004 order_40 it_502 and_2665 pick_7 it_503 up_103 though_69 because_45 i_813 do_147 n_268 '_849 like_198 the_4825 $T$ ,_3805 one_161 young_5 woman_1 in_598 particular_22 ._4355
-servers_9
+prefer_0 to_984 order_47 it_559 and_2602 pick_6 it_560 up_100 though_67 because_46 i_999 do_144 n_262 '_838 like_194 the_4683 $T$ ,_3742 one_143 young_3 woman_1 in_598 particular_20 ._4328
+servers_13
 -1
-prefer_1 to_1005 order_41 it_504 and_2666 pick_8 it_505 up_104 though_70 because_46 i_814 do_148 n_269 '_850 like_199 the_4826 servers_10 ,_3806 one_162 $T$ in_599 particular_23 ._4356
-young_6 woman_2
+prefer_1 to_985 order_48 it_561 and_2603 pick_7 it_562 up_101 though_68 because_47 i_1000 do_145 n_263 '_839 like_195 the_4684 servers_14 ,_3743 one_144 $T$ in_599 particular_21 ._4329
+young_4 woman_2
 -1
-management_9 should_27 really_151 take_28 notice_9 and_2667 train_2 their_95 $T$ and_2668 teach_0 them_25 some_109 proper_2 manners_0 ._4357
-waits_10 ##taff_10
+management_11 should_27 really_147 take_26 notice_6 and_2604 train_1 their_124 $T$ and_2605 teach_0 them_15 some_99 proper_2 manners_0 ._4330
+waits_15 ##taff_15
 -1
-$T$ should_28 really_152 take_29 notice_10 and_2669 train_3 their_96 waits_11 ##taff_11 and_2670 teach_1 them_26 some_110 proper_3 manners_1 ._4358
-management_10
+$T$ should_28 really_148 take_27 notice_7 and_2606 train_2 their_125 waits_16 ##taff_16 and_2607 teach_1 them_16 some_100 proper_3 manners_1 ._4331
+management_12
 -1
-many_39 people_49 talk_1 about_135 the_4827 great_764 $T$ and_2671 poor_24 service_513 ,_3807 so_291 it_506 ca_44 n_270 '_851 just_131 be_230 the_4828 ran_3 ##ting_3 ##s_286 of_882 a_1520 few_36 dissatisfied_0 customers_11 ._4359
-pizza_177
+many_32 people_53 talk_0 about_133 the_4685 great_746 $T$ and_2608 poor_24 service_607 ,_3744 so_291 it_563 ca_47 n_264 '_840 just_136 be_229 the_4686 ran_3 ##ting_3 ##s_376 of_875 a_1493 few_33 dissatisfied_0 customers_14 ._4332
+pizza_181
 1
-many_40 people_50 talk_2 about_136 the_4829 great_765 pizza_178 and_2672 poor_25 $T$ ,_3808 so_292 it_507 ca_45 n_271 '_852 just_132 be_231 the_4830 ran_4 ##ting_4 ##s_287 of_883 a_1521 few_37 dissatisfied_1 customers_12 ._4360
-service_514
+many_33 people_54 talk_1 about_134 the_4687 great_747 pizza_182 and_2609 poor_25 $T$ ,_3745 so_292 it_564 ca_48 n_265 '_841 just_137 be_230 the_4688 ran_4 ##ting_4 ##s_377 of_876 a_1494 few_34 dissatisfied_1 customers_15 ._4333
+service_608
 -1
-–_69 this_551 place_412 is_1556 famous_0 for_620 their_97 $T$ ._4363
-breakfast_5
+–_69 this_547 place_470 is_1532 famous_1 for_613 their_126 $T$ ._4336
+breakfast_4
 1
-their_98 $T$ is_1559 addict_0 ##ing_34 ._4367
-crab_66 eggs_19 benedict_1
+their_127 $T$ is_1535 addict_0 ##ing_39 ._4340
+crab_59 eggs_21 benedict_2
 1
-all_251 their_99 $T$ are_412 a_1528 hit_3 ,_3809 and_2677 they_271 serve_40 mi_19 ##mos_5 ##as_25 ._4368
-menu_164 items_3
+all_260 their_128 $T$ are_410 a_1501 hit_5 ,_3746 and_2614 they_263 serve_36 mi_20 ##mos_9 ##as_31 ._4341
+menu_158 items_1
 1
-the_4847 $T$ were_334 so_298 fresh_168 and_2690 ta_105 ##sty_90 ._4393
-bro_1 ##coll_0 ##is_12
+the_4705 $T$ were_331 so_298 fresh_162 and_2627 ta_107 ##sty_90 ._4366
+bro_2 ##coll_0 ##is_15
 1
-i_817 would_130 normally_2 not_412 finish_1 the_4848 bro_2 ##coll_1 ##i_39 when_80 i_818 order_42 these_24 kinds_4 of_887 food_1148 but_544 for_622 the_4849 first_47 time_89 ,_3813 every_61 piece_12 was_1287 as_204 event_3 ##ful_10 as_205 the_4850 first_48 one_163 ._4394 ._4395 ._4396 the_4851 $T$ and_2691 pr_8 ##aw_7 ##ns_9 was_1288 so_299 fresh_169 and_2692 nicely_0 cooked_31 ._4397
-sc_42 ##all_37 ##ops_6
+i_1003 would_127 normally_1 not_402 finish_0 the_4706 bro_3 ##coll_1 ##i_47 when_81 i_1004 order_49 these_22 kinds_2 of_880 food_1091 but_535 for_615 the_4707 first_45 time_94 ,_3750 every_65 piece_17 was_1263 as_204 event_1 ##ful_10 as_205 the_4708 first_46 one_145 ._4367 ._4368 ._4369 the_4709 $T$ and_2628 pr_8 ##aw_7 ##ns_11 was_1264 so_299 fresh_163 and_2629 nicely_0 cooked_29 ._4370
+sc_50 ##all_43 ##ops_8
 1
-i_819 would_131 normally_3 not_413 finish_2 the_4852 bro_3 ##coll_2 ##i_40 when_81 i_820 order_43 these_25 kinds_5 of_888 food_1149 but_545 for_623 the_4853 first_49 time_90 ,_3814 every_62 piece_13 was_1289 as_206 event_4 ##ful_11 as_207 the_4854 first_50 one_164 ._4398 ._4399 ._4400 the_4855 sc_43 ##all_38 ##ops_7 and_2693 $T$ was_1290 so_300 fresh_170 and_2694 nicely_1 cooked_32 ._4401
-pr_9 ##aw_8 ##ns_10
+i_1005 would_128 normally_2 not_403 finish_1 the_4710 bro_4 ##coll_2 ##i_48 when_82 i_1006 order_50 these_23 kinds_3 of_881 food_1092 but_536 for_616 the_4711 first_47 time_95 ,_3751 every_66 piece_18 was_1265 as_206 event_2 ##ful_11 as_207 the_4712 first_48 one_146 ._4371 ._4372 ._4373 the_4713 sc_51 ##all_44 ##ops_9 and_2630 $T$ was_1266 so_300 fresh_164 and_2631 nicely_1 cooked_30 ._4374
+pr_9 ##aw_8 ##ns_12
 1
-i_821 would_132 normally_4 not_414 finish_3 the_4856 $T$ when_82 i_822 order_44 these_26 kinds_6 of_889 food_1150 but_546 for_624 the_4857 first_51 time_91 ,_3815 every_63 piece_14 was_1291 as_208 event_5 ##ful_12 as_209 the_4858 first_52 one_165 ._4402 ._4403 ._4404 the_4859 sc_44 ##all_39 ##ops_8 and_2695 pr_10 ##aw_9 ##ns_11 was_1292 so_301 fresh_171 and_2696 nicely_2 cooked_33 ._4405
-bro_4 ##coll_3 ##i_41
+i_1007 would_129 normally_3 not_404 finish_2 the_4714 $T$ when_83 i_1008 order_51 these_24 kinds_4 of_882 food_1093 but_537 for_617 the_4715 first_49 time_96 ,_3752 every_67 piece_19 was_1267 as_208 event_3 ##ful_12 as_209 the_4716 first_50 one_147 ._4375 ._4376 ._4377 the_4717 sc_52 ##all_45 ##ops_10 and_2632 pr_10 ##aw_9 ##ns_13 was_1268 so_301 fresh_165 and_2633 nicely_2 cooked_31 ._4378
+bro_5 ##coll_3 ##i_49
 1
-for_625 desert_4 we_500 had_336 the_4860 $T$ ._4406 ._4407 ._4408 oh_7 la_26 la_27 yu_35 ##mmy_24 !_546 !_547 !_548
-mango_0 ginger_1 cr_19 ##eme_1 br_44 ##ule_1 ##e_97
+for_618 desert_5 we_407 had_335 the_4718 $T$ ._4379 ._4380 ._4381 oh_6 la_24 la_25 yu_36 ##mmy_24 !_544 !_545 !_546
+mango_0 ginger_2 cr_19 ##eme_1 br_48 ##ule_1 ##e_109
 1
-we_501 are_413 for_626 sure_36 coming_11 back_71 to_1008 this_552 $T$ ._4409
-restaurant_314
+we_408 are_411 for_619 sure_36 coming_11 back_67 to_988 this_548 $T$ ._4382
+restaurant_295
 1
-chin_1 ##tz_0 ##y_150 $T$
-portions_31
+chin_1 ##tz_0 ##y_154 $T$
+portions_33
 -1
-i_823 '_857 m_25 astonished_0 that_443 this_557 $T$ is_1568 categorized_0 as_210 rather_24 than_85 ._4414
-restaurant_319
+i_1009 '_846 m_20 astonished_0 that_446 this_553 $T$ is_1544 categorized_0 as_210 rather_23 than_82 ._4387
+restaurant_300
 -1
-terrible_10 $T$ ,_3828 food_1151 ok_47 ,_3829 price_99 ##y_151
-service_517
+terrible_9 $T$ ,_3765 food_1094 ok_45 ,_3766 price_130 ##y_155
+service_611
 -1
-terrible_11 service_518 ,_3830 $T$ ok_48 ,_3831 price_100 ##y_152
-food_1152
+terrible_10 service_612 ,_3767 $T$ ok_46 ,_3768 price_131 ##y_156
+food_1095
 0
-in_604 other_63 words_0 ,_3832 if_168 they_275 are_414 n_274 '_858 making_7 $T$ off_42 of_894 you_406 then_22 you_407 do_149 n_275 '_859 rate_1 high_37 on_277 their_100 '_860 scale_1 '_861 ._4415
-service_519
+in_604 other_57 words_0 ,_3769 if_167 they_267 are_412 n_268 '_847 making_9 $T$ off_41 of_887 you_490 then_21 you_491 do_146 n_269 '_848 rate_0 high_37 on_272 their_129 '_849 scale_0 '_850 ._4388
+service_613
 -1
-$T$ wise_8 ,_3833 its_33 ok_49 but_551 a_1541 bit_46 price_101 ##y_153 for_635 what_74 you_408 get_154 considering_11 the_4869 restaurant_320 is_1569 n_276 '_862 a_1542 fancy_17 place_413 ._4416
-food_1153
+$T$ wise_8 ,_3770 its_39 ok_47 but_542 a_1514 bit_63 price_132 ##y_157 for_628 what_98 you_492 get_150 considering_11 the_4727 restaurant_301 is_1545 n_270 '_851 a_1515 fancy_17 place_471 ._4389
+food_1096
 0
-food_1154 wise_9 ,_3834 its_34 ok_50 but_552 a_1543 bit_47 price_102 ##y_154 for_636 what_75 you_409 get_155 considering_12 the_4870 $T$ is_1570 n_277 '_863 a_1544 fancy_18 place_414 ._4417
-restaurant_321
+food_1097 wise_9 ,_3771 its_40 ok_48 but_543 a_1516 bit_64 price_133 ##y_158 for_629 what_99 you_493 get_151 considering_12 the_4728 $T$ is_1546 n_271 '_852 a_1517 fancy_18 place_472 ._4390
+restaurant_302
 -1
-food_1155 wise_10 ,_3835 its_35 ok_51 but_553 a_1545 bit_48 price_103 ##y_155 for_637 what_76 you_410 get_156 considering_13 the_4871 $T$ is_1571 n_278 '_864 a_1546 fancy_19 place_415 ._4418
-restaurant_322
+food_1098 wise_10 ,_3772 its_41 ok_49 but_544 a_1518 bit_65 price_134 ##y_159 for_630 what_100 you_494 get_152 considering_13 the_4729 $T$ is_1547 n_272 '_853 a_1519 fancy_19 place_473 ._4391
+restaurant_303
 0
-if_169 i_824 needed_0 to_1009 name_6 some_111 they_276 would_133 include_3 the_4872 $T$ to_1010 the_4873 beach_2 or_191 golden_0 gate_1 park_5 ._4419
-location_54
+if_168 i_1010 needed_0 to_989 name_7 some_101 they_268 would_130 include_2 the_4730 $T$ to_990 the_4731 beach_0 or_190 golden_0 gate_0 park_7 ._4392
+location_52
 1
-another_23 plus_10 is_1572 the_4874 open_18 $T$ of_895 the_4875 restaurant_323 with_452 glass_21 walls_7 on_278 all_252 sides_1 ._4420
+another_21 plus_9 is_1548 the_4732 open_19 $T$ of_888 the_4733 restaurant_304 with_447 glass_23 walls_6 on_273 all_261 sides_2 ._4393
 feel_77
 1
-another_24 plus_11 is_1573 the_4876 open_19 feel_78 of_896 the_4877 restaurant_324 with_453 $T$ on_279 all_253 sides_2 ._4421
-glass_22 walls_8
+another_22 plus_10 is_1549 the_4734 open_20 feel_78 of_889 the_4735 restaurant_305 with_448 $T$ on_274 all_262 sides_3 ._4394
+glass_24 walls_7
 1
-$T$ gets_15 better_56 each_27 time_92 i_826 have_342 it_512 ._4429
-green_17 tea_13 cr_20 ##eme_2 br_45 ##ule_2 ##e_102
+$T$ gets_15 better_56 each_22 time_97 i_1012 have_340 it_569 ._4402
+green_14 tea_17 cr_20 ##eme_2 br_49 ##ule_2 ##e_114
 1
-it_513 is_1574 n_282 '_868 the_4880 cheap_52 ##est_17 $T$ but_554 has_152 been_121 worth_70 it_514 every_64 time_93 ._4430
-su_167 ##shi_159
+it_570 is_1550 n_276 '_857 the_4738 cheap_49 ##est_17 $T$ but_545 has_149 been_121 worth_71 it_571 every_68 time_98 ._4403
+su_195 ##shi_185
 0
-it_515 is_1575 n_283 '_869 the_4881 cheap_53 ##est_18 $T$ but_555 has_153 been_122 worth_71 it_516 every_65 time_94 ._4431
-su_168 ##shi_160
+it_572 is_1551 n_277 '_858 the_4739 cheap_50 ##est_18 $T$ but_546 has_150 been_122 worth_72 it_573 every_69 time_99 ._4404
+su_196 ##shi_186
 1
-while_46 this_558 diner_11 had_338 reasonably_16 good_591 $T$ ,_3845 the_4885 restaurant_325 staff_185 seemed_18 completely_23 indifferent_0 to_1011 our_97 presence_1 ,_3846 and_2705 this_559 attitude_6 was_1293 reflected_0 in_610 the_4886 lack_7 of_898 service_524 ._4436
-food_1159
+while_42 this_554 diner_14 had_337 reasonably_16 good_583 $T$ ,_3782 the_4743 restaurant_306 staff_185 seemed_18 completely_23 indifferent_0 to_991 our_106 presence_0 ,_3783 and_2642 this_555 attitude_7 was_1269 reflected_0 in_610 the_4744 lack_7 of_891 service_618 ._4409
+food_1102
 1
-while_47 this_560 diner_12 had_339 reasonably_17 good_592 food_1160 ,_3847 the_4887 $T$ seemed_19 completely_24 indifferent_1 to_1012 our_98 presence_2 ,_3848 and_2706 this_561 attitude_7 was_1294 reflected_1 in_611 the_4888 lack_8 of_899 service_525 ._4437
-restaurant_326 staff_186
+while_43 this_556 diner_15 had_338 reasonably_17 good_584 food_1103 ,_3784 the_4745 $T$ seemed_19 completely_24 indifferent_1 to_992 our_107 presence_1 ,_3785 and_2643 this_557 attitude_8 was_1270 reflected_1 in_611 the_4746 lack_8 of_892 service_619 ._4410
+restaurant_307 staff_186
 -1
-after_38 one_166 member_0 of_900 our_99 party_18 had_340 been_123 bumped_0 repeatedly_0 by_106 a_1547 $T$ ,_3849 a_1548 polite_0 request_5 that_447 he_46 not_418 be_242 bumped_1 sent_2 the_4889 into_18 an_148 abusive_0 ran_5 ##t_70 ._4438
+after_37 one_148 member_0 of_893 our_108 party_15 had_339 been_123 bumped_0 repeatedly_1 by_103 a_1520 $T$ ,_3786 a_1521 polite_1 request_5 that_450 he_42 not_408 be_241 bumped_1 sent_2 the_4747 into_17 an_142 abusive_0 ran_5 ##t_83 ._4411
 waitress_41
 -1
-the_4894 $T$ continually_6 interrupted_0 with_458 `_60 `_61 is_1576 there_126 anything_15 else_17 i_827 can_133 do_150 for_641 you_411 ?_23 `_62 `_63 ,_3850 a_1550 strange_0 comment_2 because_47 she_31 had_342 hardly_0 listened_0 ,_3851 let_7 alone_13 responded_0 to_1014 our_100 expression_0 of_902 disappointment_8 at_342 our_101 experience_54 ._4440
-manager_22
+the_4752 $T$ continually_6 interrupted_0 with_453 `_60 `_61 is_1552 there_139 anything_23 else_17 i_1013 can_131 do_147 for_634 you_495 ?_22 `_62 `_63 ,_3787 a_1523 strange_0 comment_1 because_48 she_25 had_341 hardly_0 listened_0 ,_3788 let_7 alone_13 responded_0 to_994 our_109 expression_0 of_895 disappointment_10 at_332 our_110 experience_52 ._4413
+manager_27
 -1
-you_412 are_416 with_459 a_1551 hot_48 date_25 and_2707 he_47 /_71 she_32 has_154 an_150 urge_0 for_642 $T$ ._4441 ._4442 ._4443 then_23 this_562 might_15 be_244 the_4895 place_416 ._4444
-su_169 ##shi_161
+you_496 are_414 with_454 a_1524 hot_49 date_30 and_2644 he_43 /_68 she_26 has_151 an_144 urge_0 for_635 $T$ ._4414 ._4415 ._4416 then_22 this_558 might_16 be_243 the_4753 place_474 ._4417
+su_197 ##shi_187
 1
-$T$ here_131 !_549
-dung_0 ##enes_0 ##s_292 crabs_0
+$T$ here_129 !_547
+dung_0 ##enes_0 ##s_382 crabs_1
 1
-–_77 ray_3 '_875 s_295 is_1577 the_4898 place_417 to_1015 go_118 for_643 high_38 quality_80 $T$ ._4449
-seafood_51 dinners_2
+–_77 ray_2 '_864 s_277 is_1553 the_4756 place_475 to_995 go_118 for_636 high_38 quality_67 $T$ ._4422
+seafood_37 dinners_1
 1
-i_831 ended_4 the_4901 meal_92 with_460 the_4902 unusual_2 $T$ ._4451 ._4452 ._4453 ._4454 yu_36 ##mmy_25 !_552
-dessert_104 of_903 a_1552 port_0 and_2711 chocolate_12 tasting_30
+i_1017 ended_4 the_4759 meal_91 with_455 the_4760 unusual_2 $T$ ._4424 ._4425 ._4426 ._4427 yu_37 ##mmy_25 !_550
+dessert_96 of_896 a_1525 port_0 and_2648 chocolate_9 tasting_24
 1
-and_2712 the_4903 $T$ was_1300 simply_23 spend_17 ##id_0 -_784 quite_36 a_1553 delight_12 ._4455
-service_527
+and_2649 the_4761 $T$ was_1276 simply_23 spend_17 ##id_0 -_784 quite_33 a_1526 delight_9 ._4428
+service_621
 1
-the_4908 $T$ is_1584 great_780 ,_3875 no_109 night_55 better_57 or_195 worse_1 ,_3876 the_4909 bar_48 tender_9 ##s_299 are_417 generous_3 with_461 the_4910 pouring_0 ,_3877 and_2714 the_4911 light_18 ##hearted_0 atmosphere_111 will_71 lifts_0 you_415 spirits_0 ._4466
-music_28
+the_4766 $T$ is_1560 great_762 ,_3812 no_112 night_49 better_57 or_194 worse_0 ,_3813 the_4767 bar_58 tender_7 ##s_389 are_415 generous_3 with_456 the_4768 pouring_0 ,_3814 and_2651 the_4769 light_18 ##hearted_0 atmosphere_124 will_69 lifts_0 you_499 spirits_0 ._4439
+music_29
 1
-the_4912 music_29 is_1585 great_781 ,_3878 no_110 night_56 better_58 or_196 worse_2 ,_3879 the_4913 $T$ are_418 generous_4 with_462 the_4914 pouring_1 ,_3880 and_2715 the_4915 light_19 ##hearted_1 atmosphere_112 will_72 lifts_1 you_416 spirits_1 ._4467
-bar_49 tender_10 ##s_300
+the_4770 music_30 is_1561 great_763 ,_3815 no_113 night_50 better_58 or_195 worse_1 ,_3816 the_4771 $T$ are_416 generous_4 with_457 the_4772 pouring_1 ,_3817 and_2652 the_4773 light_19 ##hearted_1 atmosphere_125 will_70 lifts_1 you_500 spirits_1 ._4440
+bar_59 tender_8 ##s_390
 1
-the_4916 music_30 is_1586 great_782 ,_3881 no_111 night_57 better_59 or_197 worse_3 ,_3882 the_4917 bar_50 tender_11 ##s_301 are_419 generous_5 with_463 the_4918 pouring_2 ,_3883 and_2716 the_4919 light_20 ##hearted_2 $T$ will_73 lifts_2 you_417 spirits_2 ._4468
-atmosphere_113
+the_4774 music_31 is_1562 great_764 ,_3818 no_114 night_51 better_59 or_196 worse_2 ,_3819 the_4775 bar_60 tender_9 ##s_391 are_417 generous_5 with_458 the_4776 pouring_2 ,_3820 and_2653 the_4777 light_20 ##hearted_2 $T$ will_71 lifts_2 you_501 spirits_2 ._4441
+atmosphere_126
 1
-good_594 $T$ ,_3885 great_783 service_530 ,_3886 average_86 prices_71 (_309 for_647 the_4921 strip_2 )_333
-food_1161
+good_586 $T$ ,_3822 great_765 service_624 ,_3823 average_82 prices_97 (_309 for_640 the_4779 strip_2 )_330
+food_1104
 1
-–_83 i_832 decided_2 to_1016 eat_66 at_346 stack_1 because_48 of_905 their_102 $T$ ._4469
-price_104 fixed_0 pre_23 -_785 show_2 dinner_112
+–_83 i_1018 decided_2 to_996 eat_61 at_336 stack_0 because_49 of_898 their_131 $T$ ._4442
+price_135 fixed_0 pre_23 -_785 show_5 dinner_96
 0
-the_4923 $T$ playing_1 was_1302 very_394 hip_5 ,_3890 20_12 -_786 30_6 something_20 pop_0 ,_3891 but_556 the_4924 sub_5 ##wo_0 ##of_0 ##er_21 to_1017 the_4925 sound_1 system_3 was_1303 located_4 under_14 my_186 seat_9 ,_3892 which_150 became_0 annoying_4 midway_0 through_15 dinner_113 ._4471
-music_31
+the_4781 $T$ playing_1 was_1278 very_375 hip_8 ,_3827 20_12 -_786 30_6 something_10 pop_0 ,_3828 but_547 the_4782 sub_3 ##wo_0 ##of_0 ##er_26 to_997 the_4783 sound_1 system_4 was_1279 located_4 under_14 my_251 seat_9 ,_3829 which_148 became_0 annoying_4 midway_0 through_14 dinner_97 ._4444
+music_32
 1
-the_4926 music_32 playing_2 was_1304 very_395 hip_6 ,_3893 20_13 -_787 30_7 something_21 pop_1 music_33 ,_3894 but_557 the_4927 $T$ was_1305 located_5 under_15 my_187 seat_10 ,_3895 which_151 became_1 annoying_5 midway_1 through_16 dinner_114 ._4472
-sub_6 ##wo_1 ##of_1 ##er_22 to_1018 the_4928 sound_2 system_4
+the_4784 music_33 playing_2 was_1280 very_376 hip_9 ,_3830 20_13 -_787 30_7 something_11 pop_1 music_34 ,_3831 but_548 the_4785 $T$ was_1281 located_5 under_15 my_252 seat_10 ,_3832 which_149 became_1 annoying_5 midway_1 through_15 dinner_98 ._4445
+sub_4 ##wo_1 ##of_1 ##er_27 to_998 the_4786 sound_2 system_5
 -1
-i_835 got_51 the_4929 $T$ and_2718 it_520 was_1306 alright_0 ._4473
-shell_0 ##fish_30 and_2719 shrimp_70 app_47 ##eti_50 ##zer_25
+i_1021 got_51 the_4787 $T$ and_2655 it_577 was_1282 alright_0 ._4446
+shell_0 ##fish_31 and_2656 shrimp_70 app_65 ##eti_69 ##zer_35
 0
-it_521 was_1307 n_284 '_878 the_4930 fresh_176 ##est_19 $T$ ever_66 ,_3896 but_558 the_4931 taste_45 and_2720 presentation_7 was_1308 ok_52 ._4474
-seafood_52
+it_578 was_1283 n_278 '_867 the_4788 fresh_170 ##est_19 $T$ ever_65 ,_3833 but_549 the_4789 taste_43 and_2657 presentation_6 was_1284 ok_50 ._4447
+seafood_38
 0
-it_522 was_1309 n_285 '_879 the_4932 fresh_177 ##est_20 $T$ ever_67 ,_3897 but_559 the_4933 taste_46 and_2721 presentation_8 was_1310 ok_53 ._4475
-seafood_53
+it_579 was_1285 n_279 '_868 the_4790 fresh_171 ##est_20 $T$ ever_66 ,_3834 but_550 the_4791 taste_44 and_2658 presentation_7 was_1286 ok_51 ._4448
+seafood_39
 0
-it_524 ?_24 s_297 served_31 with_464 either_16 a_1556 $T$ or_198 red_26 wine_127 reduction_0 ,_3900 though_74 both_57 were_336 ind_1 ##ist_4 ##ing_35 ##uis_3 ##hab_0 ##le_22 in_617 taste_47 ._4479
-pepper_4 ##cor_0 ##n_10 sauce_51
+it_581 ?_23 s_279 served_33 with_459 either_15 a_1529 $T$ or_197 red_22 wine_133 reduction_0 ,_3837 though_72 both_64 were_333 ind_1 ##ist_4 ##ing_40 ##uis_6 ##hab_0 ##le_27 in_617 taste_45 ._4452
+pepper_7 ##cor_0 ##n_12 sauce_57
 0
-it_525 ?_25 s_298 served_32 with_465 either_17 a_1557 pepper_5 ##cor_1 ##n_11 sauce_52 or_199 $T$ ,_3901 though_75 both_58 were_337 ind_2 ##ist_5 ##ing_36 ##uis_4 ##hab_1 ##le_23 in_618 taste_48 ._4480
-red_27 wine_128 reduction_1
+it_582 ?_24 s_280 served_34 with_460 either_16 a_1530 pepper_8 ##cor_1 ##n_13 sauce_58 or_198 $T$ ,_3838 though_73 both_65 were_334 ind_2 ##ist_5 ##ing_41 ##uis_7 ##hab_1 ##le_28 in_618 taste_46 ._4453
+red_23 wine_134 reduction_1
 0
-though_76 ,_3902 one_168 thing_30 i_837 realized_0 later_12 on_282 was_1313 that_448 the_4937 restaurant_327 either_18 used_6 ms_1 ##g_9 or_200 a_1558 meat_27 tender_12 ##izer_1 on_283 the_4938 $T$ ._4481
+though_74 ,_3839 one_150 thing_37 i_1023 realized_0 later_10 on_277 was_1289 that_451 the_4795 restaurant_308 either_17 used_6 ms_2 ##g_11 or_199 a_1531 meat_33 tender_10 ##izer_1 on_278 the_4796 $T$ ._4454
 steak_15
 -1
-but_560 the_4943 $T$ were_338 extremely_26 at_348 ##ten_79 ##tive_56 and_2726 very_396 friendly_115 ._4484
-servers_11
+but_551 the_4801 $T$ were_335 extremely_25 at_338 ##ten_80 ##tive_56 and_2663 very_377 friendly_115 ._4457
+servers_15
 1
-overall_24 ,_3903 i_838 would_135 go_119 back_72 and_2727 eat_67 at_349 the_4944 $T$ again_39 ._4485
-restaurant_328
+overall_24 ,_3840 i_1024 would_132 go_119 back_68 and_2664 eat_62 at_339 the_4802 $T$ again_36 ._4458
+restaurant_309
 1
-the_4947 $T$ was_1317 a_1559 bit_49 un_68 ##fr_13 ##ien_10 ##dly_14 and_2728 the_4948 feel_79 of_906 the_4949 restaurant_329 was_1318 crowded_20 ._4491
-waiter_97
+the_4805 $T$ was_1293 a_1532 bit_66 un_72 ##fr_13 ##ien_10 ##dly_14 and_2665 the_4806 feel_79 of_899 the_4807 restaurant_310 was_1294 crowded_20 ._4464
+waiter_90
 -1
-the_4950 waiter_98 was_1319 a_1560 bit_50 un_69 ##fr_14 ##ien_11 ##dly_15 and_2729 the_4951 $T$ of_907 the_4952 restaurant_330 was_1320 crowded_21 ._4492
+the_4808 waiter_91 was_1295 a_1533 bit_67 un_73 ##fr_14 ##ien_11 ##dly_15 and_2666 the_4809 $T$ of_900 the_4810 restaurant_311 was_1296 crowded_21 ._4465
 feel_80
 -1
-also_78 ,_3906 there_128 was_1321 only_95 one_169 $T$ -_788 probably_22 need_23 more_125 for_649 such_35 big_40 crowds_0 ._4493
-bathroom_9 stall_0
+also_73 ,_3843 there_141 was_1297 only_95 one_151 $T$ -_788 probably_22 need_21 more_122 for_642 such_35 big_36 crowds_0 ._4466
+bathroom_14 stall_0
 -1
-for_650 the_4957 amount_5 of_908 $T$ we_508 got_52 the_4958 prices_73 should_37 have_343 been_125 lower_0 ._4497
-food_1169
+for_643 the_4815 amount_4 of_901 $T$ we_415 got_52 the_4816 prices_99 should_37 have_341 been_125 lower_0 ._4470
+food_1112
 -1
-for_651 the_4959 amount_6 of_909 $T$ we_509 got_53 the_4960 prices_74 should_38 have_344 been_126 lower_1 ._4498
-food_1170
+for_644 the_4817 amount_5 of_902 $T$ we_416 got_53 the_4818 prices_100 should_38 have_342 been_126 lower_1 ._4471
+food_1113
 -1
-my_189 favor_2 ##tie_0 $T$ in_619 seattle_7
-pizza_179 joint_6
+my_254 favor_3 ##tie_0 $T$ in_619 seattle_7
+pizza_183 joint_7
 1
-i_841 '_884 ve_123 always_134 found_32 the_4965 $T$ and_2736 ,_3910 if_171 you_418 sit_12 at_354 the_4966 bar_51 ,_3911 the_4967 cooks_1 very_400 friendly_116 ._4502
-wait_56 staff_187
+i_1027 '_873 ve_124 always_124 found_31 the_4823 $T$ and_2673 ,_3847 if_170 you_502 sit_12 at_344 the_4824 bar_61 ,_3848 the_4825 cooks_1 very_381 friendly_116 ._4475
+wait_64 staff_187
 1
-i_842 '_885 ve_124 always_135 found_33 the_4968 wait_57 staff_188 and_2737 ,_3912 if_172 you_419 sit_13 at_355 the_4969 bar_52 ,_3913 the_4970 $T$ very_401 friendly_117 ._4503
+i_1028 '_874 ve_125 always_125 found_32 the_4826 wait_65 staff_188 and_2674 ,_3849 if_171 you_503 sit_13 at_345 the_4827 bar_62 ,_3850 the_4828 $T$ very_382 friendly_117 ._4476
 cooks_2
 1
-we_510 ’_40 re_93 can_135 ’_41 say_43 enough_37 about_148 their_104 delicious_212 go_120 ##ur_2 ##met_0 $T$ !_554
-pizza_182 ’_42 s_299
+we_417 ’_40 re_89 can_133 ’_41 say_43 enough_38 about_146 their_133 delicious_202 go_120 ##ur_4 ##met_0 $T$ !_552
+pizza_186 ’_42 s_281
 1
-you_420 won_0 ’_43 be_246 disappointed_16 by_108 their_105 $T$ ._4507
-menu_171
+you_504 won_0 ’_43 be_245 disappointed_16 by_105 their_134 $T$ ._4480
+menu_165
 1
-the_4979 $T$ are_425 light_21 and_2745 sc_45 ##rum_1 ##pt_1 ##ious_13 ._4510
-pizza_185 ’_46 s_302
+the_4837 $T$ are_423 light_21 and_2682 sc_53 ##rum_1 ##pt_1 ##ious_14 ._4483
+pizza_189 ’_46 s_284
 1
-try_92 the_4980 $T$ !_555
-pizza_186 en_38 ##sal_0 ##ata_0
+try_88 the_4838 $T$ !_553
+pizza_190 en_43 ##sal_0 ##ata_0
 1
-the_4981 $T$ are_426 not_419 huge_42 and_2746 the_4982 crust_34 is_1590 thin_38 …_0 keep_22 that_449 in_620 mind_14 when_84 you_421 ’_47 re_94 ordering_4 ._4511
-pizza_187 ’_48 s_303
+the_4839 $T$ are_424 not_409 huge_43 and_2683 the_4840 crust_39 is_1566 thin_37 …_0 keep_23 that_452 in_620 mind_16 when_85 you_505 ’_47 re_90 ordering_4 ._4484
+pizza_191 ’_48 s_285
 0
-the_4983 pizza_188 ’_49 s_304 are_427 not_420 huge_43 and_2747 the_4984 $T$ is_1591 thin_39 …_1 keep_23 that_450 in_621 mind_15 when_85 you_422 ’_50 re_95 ordering_5 ._4512
-crust_35
+the_4841 pizza_192 ’_49 s_286 are_425 not_410 huge_44 and_2684 the_4842 $T$ is_1567 thin_38 …_1 keep_24 that_453 in_621 mind_17 when_86 you_506 ’_50 re_91 ordering_5 ._4485
+crust_40
 0
-the_4985 $T$ is_1592 sin_0 ##ful_13 ._4513
-food_1171
+the_4843 $T$ is_1568 sin_0 ##ful_13 ._4486
+food_1114
 1
-the_4988 specialty_4 here_132 is_1593 decade_3 ##nt_12 $T$ ,_3914 but_562 i_846 '_886 ve_125 been_127 back_73 now_21 four_28 times_43 ,_3915 and_2748 i_847 '_887 ve_126 been_128 wow_4 ##ed_46 every_66 time_96 ._4516
-pancakes_10
+the_4846 specialty_6 here_130 is_1569 decade_2 ##nt_14 $T$ ,_3851 but_553 i_1032 '_875 ve_126 been_127 back_69 now_22 four_26 times_47 ,_3852 and_2685 i_1033 '_876 ve_127 been_128 wow_4 ##ed_48 every_70 time_101 ._4489
+pancakes_9
 1
-nothing_19 on_284 the_4989 $T$ is_1594 less_11 than_86 amazing_122 ._4517
-menu_174
+nothing_27 on_279 the_4847 $T$ is_1570 less_10 than_83 amazing_121 ._4490
+menu_168
 1
-i_850 have_346 been_130 here_133 ,_3919 spent_2 tons_9 of_916 money_15 on_285 a_1566 $T$ and_2751 it_529 was_1326 a_1567 major_6 di_27 ##ssa_18 ##pp_15 ##oint_10 ##ment_0 ._4523
-chef_22 special_81 dinner_117
+i_1036 have_344 been_130 here_131 ,_3856 spent_2 tons_11 of_909 money_18 on_280 a_1539 $T$ and_2688 it_586 was_1302 a_1540 major_6 di_27 ##ssa_18 ##pp_15 ##oint_10 ##ment_0 ._4496
+chef_32 special_80 dinner_101
 -1
-i_851 have_347 been_131 here_134 ,_3920 spent_3 tons_10 of_917 money_16 on_286 a_1568 $T$ and_2752 it_530 was_1327 a_1569 major_7 di_28 ##ssa_19 ##pp_16 ##oint_11 ##ment_1 ._4524
-chef_23 special_82 dinner_118
+i_1037 have_345 been_131 here_132 ,_3857 spent_3 tons_12 of_910 money_19 on_281 a_1541 $T$ and_2689 it_587 was_1303 a_1542 major_7 di_28 ##ssa_19 ##pp_16 ##oint_11 ##ment_1 ._4497
+chef_33 special_81 dinner_102
 -1
-fancy_20 pieces_10 of_918 exotic_4 fish_201 on_287 a_1570 $T$ 100_11 dollar_4 and_2753 not_421 one_171 was_1328 eat_68 ##able_17 ._4525
+fancy_20 pieces_9 of_911 exotic_5 fish_194 on_282 a_1543 $T$ 100_10 dollar_5 and_2690 not_411 one_153 was_1304 eat_63 ##able_17 ._4498
 plate_25
 -1
-fancy_21 pieces_11 of_919 $T$ on_288 a_1571 100_12 dollar_5 plate_26 and_2754 not_422 one_172 was_1329 eat_69 ##able_18 ._4526
-exotic_5 fish_202
+fancy_21 pieces_10 of_912 $T$ on_283 a_1544 100_11 dollar_6 plate_26 and_2691 not_412 one_154 was_1305 eat_64 ##able_18 ._4499
+exotic_6 fish_195
 -1
-fancy_22 pieces_12 of_920 $T$ on_289 a_1572 100_13 dollar_6 plate_27 and_2755 not_423 one_173 was_1330 eat_70 ##able_19 ._4527
-exotic_6 fish_203
+fancy_22 pieces_11 of_913 $T$ on_284 a_1545 100_12 dollar_7 plate_27 and_2692 not_413 one_155 was_1306 eat_65 ##able_19 ._4500
+exotic_7 fish_196
 -1
-our_102 $T$ was_1345 very_408 professional_24 and_2768 friendly_119 ._4554
-server_14
+our_111 $T$ was_1321 very_389 professional_23 and_2705 friendly_119 ._4527
+server_12
 1
-to_1028 the_5013 owners_4 of_922 $T$ ._4555 ._4556 ._4557 bravo_0 ._4558 ._4559 ._4560 i_853 ca_47 n_289 '_890 wait_59 to_1029 come_40 back_74 to_1030 din_16 ##e_103 at_358 your_128 restaurant_335 !_556
-open_21 sesame_6
+to_1008 the_4871 owners_5 of_915 $T$ ._4528 ._4529 ._4530 bravo_0 ._4531 ._4532 ._4533 i_1039 ca_50 n_283 '_879 wait_67 to_1009 come_40 back_70 to_1010 din_14 ##e_115 at_348 your_144 restaurant_316 !_554
+open_22 sesame_7
 1
-it_531 '_891 s_306 a_1578 tiny_22 $T$ so_305 if_173 you_424 get_158 there_133 before_30 8_27 ##pm_2 on_291 a_1579 weekend_0 (_312 th_10 ##urs_0 ?_26 sun_2 )_336 you_425 will_74 find_24 it_532 easier_0 to_1031 get_159 a_1580 table_35 or_202 a_1581 seat_11 at_359 the_5014 su_170 ##shi_162 bar_53 ._4561
-place_427
+it_588 '_880 s_288 a_1551 tiny_21 $T$ so_305 if_172 you_508 get_154 there_146 before_28 8_27 ##pm_2 on_286 a_1552 weekend_1 (_312 th_9 ##urs_0 ?_25 sun_1 )_333 you_509 will_72 find_24 it_589 easier_0 to_1011 get_155 a_1553 table_33 or_201 a_1554 seat_11 at_349 the_4872 su_198 ##shi_188 bar_63 ._4534
+place_485
 0
-everything_63 ,_3934 and_2769 i_854 mean_10 everything_64 on_292 the_5015 $T$ is_1601 del_29 ##ect_0 ##able_20 ._4562
-menu_175
+everything_62 ,_3871 and_2706 i_1040 mean_10 everything_63 on_287 the_4873 $T$ is_1577 del_28 ##ect_0 ##able_20 ._4535
+menu_169
 1
-big_41 thick_0 $T$
-pepper_6 ##oni_2
+big_37 thick_0 $T$
+pepper_9 ##oni_3
 1
-–_90 the_5020 $T$ cut_37 real_20 thick_1 -_791 -_792 yu_37 ##m_55 ._4570
-pepper_7 ##oni_3 '_895 s_307
+–_90 the_4878 $T$ cut_33 real_20 thick_1 -_791 -_792 yu_38 ##m_56 ._4543
+pepper_10 ##oni_4 '_884 s_289
 1
-the_5021 $T$ itself_5 is_1605 not_424 exactly_7 the_5022 best_219 i_855 '_896 ve_127 had_346 ever_68 ,_3938 but_563 still_21 pretty_57 good_615 ._4571
-pizza_189
+the_4879 $T$ itself_5 is_1581 not_414 exactly_6 the_4880 best_217 i_1041 '_885 ve_128 had_345 ever_67 ,_3875 but_554 still_20 pretty_55 good_607 ._4544
+pizza_193
 1
-sit_14 in_626 the_5023 $T$
-balcony_0
+sit_14 in_626 the_4881 $T$
+balcony_1
 1
-fair_18 $T$ ._4574
-menu_176 selection_68
+fair_18 $T$ ._4547
+menu_170 selection_73
 0
-the_5026 app_50 ##eti_53 ##zer_27 was_1351 interesting_23 ,_3941 but_566 the_5027 $T$ was_1352 very_411 sa_15 ##vor_4 ##y_157 and_2775 delicious_216 ._4576
-cr_22 ##eme_4 br_47 ##ule_4 ##e_105
+the_4884 app_68 ##eti_72 ##zer_37 was_1327 interesting_24 ,_3878 but_557 the_4885 $T$ was_1328 very_392 sa_16 ##vor_4 ##y_161 and_2712 delicious_206 ._4549
+cr_22 ##eme_4 br_51 ##ule_4 ##e_117
 1
-$T$ was_1353 modern_16 ._4577
-indoor_2 am_81 ##bie_30 ##nce_30
+$T$ was_1329 modern_16 ._4550
+indoor_2 am_100 ##bie_44 ##nce_45
 1
-although_41 the_5029 $T$ could_67 be_248 improved_0 considering_14 the_5030 money_17 you_429 put_8 in_628 ._4580
-service_536
+although_42 the_4887 $T$ could_65 be_247 improved_0 considering_14 the_4888 money_20 you_513 put_8 in_628 ._4553
+service_630
 -1
-our_103 drinks_102 kept_7 coming_12 but_567 our_104 $T$ came_35 by_112 a_1585 couple_24 times_44 ._4581
-server_15
+our_112 drinks_103 kept_7 coming_12 but_558 our_113 $T$ came_35 by_109 a_1558 couple_16 times_48 ._4554
+server_13
 -1
-late_13 night_59 din_17 ##ning_1 with_469 ex_6 ##ept_0 ##ional_4 $T$ ._4582
-food_1179
+late_12 night_53 din_15 ##ning_1 with_464 ex_5 ##ept_0 ##ional_4 $T$ ._4555
+food_1122
 1
-i_858 have_348 a_1588 but_568 here_135 -_795 there_136 was_1363 a_1589 bathroom_10 attendant_1 in_629 the_5042 $T$ which_155 was_1364 odd_0 ._4590
+i_1044 have_346 a_1561 but_559 here_133 -_795 there_149 was_1339 a_1562 bathroom_15 attendant_1 in_629 the_4900 $T$ which_153 was_1340 odd_0 ._4563
 restroom_0
 -1
-the_5043 $T$ itself_6 is_1606 very_414 small_71 with_470 two_58 toilets_0 and_2777 only_96 one_174 sink_0 ,_3947 the_5044 girl_6 was_1365 staying_2 totally_22 on_293 the_5045 way_55 hanging_0 out_115 paper_0 towels_0 from_120 the_5046 di_29 ##sp_4 ##ense_0 ##r_17 ._4591
-bathroom_11
+the_4901 $T$ itself_6 is_1582 very_395 small_68 with_465 two_58 toilets_0 and_2714 only_96 one_156 sink_0 ,_3884 the_4902 girl_5 was_1341 staying_2 totally_23 on_288 the_4903 way_60 hanging_0 out_118 paper_0 towels_0 from_120 the_4904 di_29 ##sp_4 ##ense_0 ##r_18 ._4564
+bathroom_16
 -1
-this_572 $T$ rocks_4 !_558 !_559
-place_431
+this_568 $T$ rocks_5 !_556 !_557
+place_489
 1
-the_5050 $T$ is_1609 aspiring_0 ,_3950 and_2780 the_5051 decor_104 is_1610 fest_0 ##ive_15 and_2781 amazing_123 ._4593 ._4594
-atmosphere_120
+the_4908 $T$ is_1585 aspiring_0 ,_3887 and_2717 the_4909 decor_127 is_1586 fest_0 ##ive_15 and_2718 amazing_122 ._4566 ._4567
+atmosphere_133
 1
-the_5052 atmosphere_121 is_1611 aspiring_1 ,_3951 and_2782 the_5053 $T$ is_1612 fest_1 ##ive_16 and_2783 amazing_124 ._4595 ._4596
-decor_105
+the_4910 atmosphere_134 is_1587 aspiring_1 ,_3888 and_2719 the_4911 $T$ is_1588 fest_1 ##ive_16 and_2720 amazing_123 ._4568 ._4569
+decor_128
 1
-the_5054 catering_1 is_1613 out_116 of_925 this_573 world_37 ,_3952 and_2784 $T$ rocks_5 my_192 world_38 !_561 !_562 !_563
-raoul_0 ##s_309 chicken_84 vegetable_0 soup_41
+the_4912 catering_0 is_1589 out_119 of_918 this_569 world_44 ,_3889 and_2721 $T$ rocks_6 my_257 world_45 !_559 !_560 !_561
+raoul_0 ##s_399 chicken_89 vegetable_0 soup_35
 1
-the_5055 $T$ is_1614 out_117 of_926 this_574 world_39 ,_3953 and_2785 raoul_1 ##s_310 chicken_85 vegetable_1 soup_42 rocks_6 my_193 world_40 !_564 !_565 !_566
-catering_2
+the_4913 $T$ is_1590 out_120 of_919 this_570 world_46 ,_3890 and_2722 raoul_1 ##s_400 chicken_90 vegetable_1 soup_36 rocks_7 my_258 world_47 !_562 !_563 !_564
+catering_1
 1
-$T$ are_433 sub_7 ##er_23 ##b_0 ,_3954 and_2786 i_859 feel_81 like_202 i_860 am_82 in_630 a_1590 third_6 world_41 country_2 when_87 i_861 walk_1 in_631 the_5056 door_3 ._4597
-drinks_103
+$T$ are_431 sub_5 ##er_28 ##b_0 ,_3891 and_2723 i_1045 feel_81 like_198 i_1046 am_101 in_630 a_1563 third_6 world_48 country_0 when_88 i_1047 walk_2 in_631 the_4914 door_3 ._4570
+drinks_104
 1
-to_1034 start_6 off_44 ,_3955 approximately_0 8_28 -_797 10_19 oz_2 of_933 $T$ will_75 cost_21 you_436 3_24 ._4601
-orange_7 juice_6
+to_1014 start_5 off_43 ,_3892 approximately_0 8_28 -_797 10_19 oz_2 of_926 $T$ will_73 cost_12 you_520 3_22 ._4574
+orange_7 juice_8
 -1
-they_278 serve_41 it_539 in_632 a_1594 tall_0 ,_3956 skinny_0 hour_12 -_798 glass_23 shaped_0 glass_24 to_1035 disguise_0 the_5063 fact_5 that_458 you_437 a_1595 getting_15 a_1596 small_72 $T$ at_360 the_5064 price_105 of_934 a_1597 half_20 gallon_1 in_633 a_1598 supermarket_4 ._4602
-juice_7
+they_270 serve_37 it_596 in_632 a_1567 tall_0 ,_3893 skinny_0 hour_13 -_798 glass_25 shaped_0 glass_26 to_1015 disguise_0 the_4921 fact_9 that_461 you_521 a_1568 getting_14 a_1569 small_69 $T$ at_350 the_4922 price_136 of_927 a_1570 half_20 gallon_0 in_633 a_1571 supermarket_3 ._4575
+juice_9
 -1
-they_279 serve_42 it_540 in_634 a_1599 tall_1 ,_3957 skinny_1 hour_13 -_799 glass_25 shaped_1 glass_26 to_1036 disguise_1 the_5065 fact_6 that_459 you_438 a_1600 getting_16 a_1601 small_73 $T$ at_361 the_5066 price_106 of_935 a_1602 half_21 gallon_2 in_635 a_1603 supermarket_5 ._4603
-juice_8
+they_271 serve_38 it_597 in_634 a_1572 tall_1 ,_3894 skinny_1 hour_14 -_799 glass_27 shaped_1 glass_28 to_1016 disguise_1 the_4923 fact_10 that_462 you_522 a_1573 getting_15 a_1574 small_70 $T$ at_351 the_4924 price_137 of_928 a_1575 half_21 gallon_1 in_635 a_1576 supermarket_4 ._4576
+juice_10
 -1
-on_294 my_194 meal_93 i_868 had_347 to_1039 send_0 back_78 my_195 $T$ for_664 a_1604 simple_21 request_7 of_942 breaking_0 the_5080 yo_7 ##kes_0 before_31 cooking_4 ,_3958 and_2793 would_137 have_353 had_348 to_1040 send_1 them_31 back_79 again_40 if_177 i_869 had_349 n_290 '_917 rejected_0 the_5081 meal_94 all_256 together_6 ._4613
-eggs_20
+on_289 my_259 meal_92 i_1054 had_346 to_1019 send_0 back_74 my_260 $T$ for_657 a_1577 simple_20 request_7 of_935 breaking_0 the_4938 yo_7 ##kes_0 before_29 cooking_2 ,_3895 and_2730 would_134 have_351 had_347 to_1020 send_1 them_21 back_75 again_37 if_176 i_1055 had_348 n_284 '_906 rejected_0 the_4939 meal_93 all_265 together_6 ._4586
+eggs_22
 -1
-on_295 my_196 $T$ i_870 had_350 to_1041 send_2 back_80 my_197 eggs_21 for_665 a_1605 simple_22 request_8 of_943 breaking_1 the_5082 yo_8 ##kes_1 before_32 cooking_5 ,_3959 and_2794 would_138 have_354 had_351 to_1042 send_3 them_32 back_81 again_41 if_178 i_871 had_352 n_291 '_918 rejected_1 the_5083 all_257 together_7 ._4614
-meal_95
+on_290 my_261 $T$ i_1056 had_349 to_1021 send_2 back_76 my_262 eggs_23 for_658 a_1578 simple_21 request_8 of_936 breaking_1 the_4940 yo_8 ##kes_1 before_30 cooking_3 ,_3896 and_2731 would_135 have_352 had_350 to_1022 send_3 them_22 back_77 again_38 if_177 i_1057 had_351 n_285 '_907 rejected_1 the_4941 all_266 together_7 ._4587
+meal_94
 -1
-i_872 rejected_2 it_541 because_49 in_642 the_5084 process_2 of_944 attempting_0 to_1043 fix_21 the_5085 eggs_22 they_280 broke_3 something_22 else_18 in_643 the_5086 $T$ and_2795 i_873 was_1370 too_146 frustrated_0 to_1044 continue_0 ._4615
-dish_44
+i_1058 rejected_2 it_598 because_50 in_642 the_4942 process_0 of_937 attempting_0 to_1023 fix_23 the_4943 eggs_24 they_272 broke_3 something_12 else_18 in_643 the_4944 $T$ and_2732 i_1059 was_1346 too_144 frustrated_0 to_1024 continue_0 ._4588
+dish_43
 -1
-to_1045 their_108 credit_1 they_281 removed_0 the_5087 dish_45 from_121 the_5088 check_24 ;_54 but_576 no_113 $T$ stopped_2 by_115 to_1046 ask_22 what_79 the_5089 problem_15 was_1371 ._4616
-manager_23
+to_1025 their_137 credit_1 they_273 removed_0 the_4945 dish_44 from_121 the_4946 check_22 ;_54 but_567 no_116 $T$ stopped_2 by_112 to_1026 ask_19 what_103 the_4947 problem_12 was_1347 ._4589
+manager_28
 -1
-in_644 the_5090 end_13 our_105 check_25 came_36 to_1047 $T$ 27_0 for_666 4_12 small_74 ,_3960 a_1606 breakfast_9 burr_9 ##ito_9 ,_3961 an_156 orange_8 juice_9 and_2796 an_157 iced_2 tea_14 (_323 i_874 had_353 water_16 )_347 ._4617
+in_644 the_4948 end_11 our_114 check_23 came_36 to_1027 $T$ 27_0 for_659 4_12 small_71 ,_3897 a_1579 breakfast_8 burr_9 ##ito_9 ,_3898 an_150 orange_8 juice_11 and_2733 an_151 iced_2 tea_18 (_323 i_1060 had_352 water_11 )_344 ._4590
+pancakes_15
+-1
+in_645 the_4949 end_12 our_115 check_24 came_37 to_1028 $T$ 27_1 for_660 4_13 small_72 ,_3899 a_1580 breakfast_9 burr_10 ##ito_10 ,_3900 an_152 orange_9 juice_12 and_2734 an_153 iced_3 tea_19 (_324 i_1061 had_353 water_12 )_345 ._4591
 pancakes_16
 -1
-in_645 the_5091 end_14 our_106 check_26 came_37 to_1048 $T$ 27_1 for_667 4_13 small_75 ,_3962 a_1607 breakfast_10 burr_10 ##ito_10 ,_3963 an_158 orange_9 juice_10 and_2797 an_159 iced_3 tea_15 (_324 i_875 had_354 water_17 )_348 ._4618
-pancakes_17
+in_646 the_4950 end_13 our_116 check_25 came_38 to_1029 $T$ 27_2 for_661 4_14 small_73 pancakes_17 ,_3901 a_1581 ,_3902 an_154 orange_10 juice_13 and_2735 an_155 iced_4 tea_20 (_325 i_1062 had_354 water_13 )_346 ._4592
+breakfast_10 burr_11 ##ito_11
 -1
-in_646 the_5092 end_15 our_107 check_27 came_38 to_1049 $T$ 27_2 for_668 4_14 small_76 pancakes_18 ,_3964 a_1608 ,_3965 an_160 orange_10 juice_11 and_2798 an_161 iced_4 tea_16 (_325 i_876 had_355 water_18 )_349 ._4619
-breakfast_11 burr_11 ##ito_11
+in_647 the_4951 end_14 our_117 check_26 came_39 to_1030 $T$ 27_3 for_662 4_15 small_74 pancakes_18 ,_3903 a_1582 breakfast_11 burr_12 ##ito_12 ,_3904 an_156 and_2736 an_157 iced_5 tea_21 (_326 i_1063 had_355 water_14 )_347 ._4593
+orange_11 juice_14
 -1
-in_647 the_5093 end_16 our_108 check_28 came_39 to_1050 $T$ 27_3 for_669 4_15 small_77 pancakes_19 ,_3966 a_1609 breakfast_12 burr_12 ##ito_12 ,_3967 an_162 and_2799 an_163 iced_5 tea_17 (_326 i_877 had_356 water_19 )_350 ._4620
-orange_11 juice_12
+in_648 the_4952 end_15 our_118 check_27 came_40 to_1031 $T$ 27_4 for_663 4_16 small_75 pancakes_19 ,_3905 a_1583 breakfast_12 burr_13 ##ito_13 ,_3906 an_158 orange_12 juice_15 and_2737 an_159 (_327 i_1064 had_356 water_15 )_348 ._4594
+iced_6 tea_22
 -1
-in_648 the_5094 end_17 our_109 check_29 came_40 to_1051 $T$ 27_4 for_670 4_16 small_78 pancakes_20 ,_3968 a_1610 breakfast_13 burr_13 ##ito_13 ,_3969 an_164 orange_12 juice_13 and_2800 an_165 (_327 i_878 had_357 water_20 )_351 ._4621
-iced_6 tea_18
--1
-–_92 i_879 am_83 exceeding_0 ##ly_112 pleased_0 to_1052 report_0 that_462 my_198 dinner_120 at_364 $T$ last_47 friday_2 completely_25 exceeded_10 my_199 expectations_6 ._4622
-ray_5 '_919 s_313 boat_1 ##house_0
+–_92 i_1065 am_102 exceeding_0 ##ly_109 pleased_0 to_1032 report_0 that_465 my_263 dinner_104 at_354 $T$ last_44 friday_2 completely_25 exceeded_10 my_264 expectations_9 ._4595
+ray_4 '_908 s_295 boat_1 ##house_0
 1
-ray_6 '_920 s_314 is_1624 something_23 of_945 a_1612 seattle_8 institution_0 ,_3970 but_577 given_14 its_39 gorgeous_10 $T$ ,_3971 i_880 had_358 suspected_0 that_463 the_5095 accolades_2 were_348 more_134 due_0 to_1053 the_5096 scenery_0 than_89 to_1054 the_5097 food_1182 and_2801 service_541 ._4623
-sound_3 views_9
+ray_5 '_909 s_296 is_1600 something_13 of_938 a_1585 seattle_8 institution_0 ,_3907 but_568 given_13 its_45 gorgeous_10 $T$ ,_3908 i_1066 had_357 suspected_0 that_466 the_4953 accolades_3 were_345 more_131 due_0 to_1033 the_4954 scenery_0 than_86 to_1034 the_4955 food_1125 and_2738 service_635 ._4596
+sound_3 views_12
 1
-to_1055 start_7 things_28 off_45 ,_3972 our_110 lovely_12 server_16 $T$ was_1372 quickly_6 on_296 hand_9 to_1056 take_30 my_202 drink_18 order_46 ._4624
+to_1035 start_6 things_34 off_44 ,_3909 our_119 lovely_12 server_14 $T$ was_1348 quickly_6 on_291 hand_13 to_1036 take_28 my_267 drink_16 order_53 ._4597
 brooke_0
 1
-i_883 had_359 a_1639 taste_51 of_964 all_258 three_15 items_4 on_303 her_27 $T$ ,_4011 and_2819 they_282 were_349 superb_12 ._4656
+i_1069 had_358 a_1612 taste_49 of_957 all_267 three_14 items_2 on_298 her_25 $T$ ,_3948 and_2756 they_274 were_346 superb_11 ._4629
 plate_28
 1
-our_111 $T$ continued_9 to_1061 be_251 at_365 ##ten_81 ##tive_58 throughout_5 the_5115 night_60 ,_4012 but_578 i_884 did_84 remain_0 puzzled_0 by_118 one_181 issue_1 :_129 who_47 thinks_4 that_466 ray_15 '_929 s_323 is_1625 an_166 appropriate_8 place_432 to_1062 take_31 young_7 children_5 for_673 dinner_121 ?_28
-server_17
+our_120 $T$ continued_9 to_1041 be_250 at_355 ##ten_82 ##tive_58 throughout_4 the_4973 night_54 ,_3949 but_569 i_1070 did_86 remain_0 puzzled_0 by_115 one_163 issue_0 :_128 who_59 thinks_4 that_469 ray_14 '_918 s_305 is_1601 an_160 appropriate_8 place_490 to_1042 take_29 young_5 children_1 for_666 dinner_105 ?_27
+server_15
 1
-our_112 server_18 continued_10 to_1063 be_252 at_366 ##ten_82 ##tive_59 throughout_6 the_5116 night_61 ,_4013 but_579 i_885 did_85 remain_1 puzzled_1 by_119 one_182 issue_2 :_130 who_48 thinks_5 that_467 $T$ is_1626 an_167 appropriate_9 place_433 to_1064 take_32 young_8 children_6 for_674 dinner_122 ?_29
-ray_16 '_930 s_324
+our_121 server_16 continued_10 to_1043 be_251 at_356 ##ten_83 ##tive_59 throughout_5 the_4974 night_55 ,_3950 but_570 i_1071 did_87 remain_1 puzzled_1 by_116 one_164 issue_1 :_129 who_60 thinks_5 that_470 $T$ is_1602 an_161 appropriate_9 place_491 to_1044 take_30 young_6 children_2 for_667 dinner_106 ?_28
+ray_15 '_919 s_306
 0
-all_259 considered_0 ,_4014 i_886 have_355 to_1065 say_44 that_468 $T$ is_1627 des_8 ##erving_0 of_965 its_40 title_1 as_217 a_1640 seattle_9 institution_1 ._4657
-ray_17 '_931 s_325 boat_2 ##house_1
+all_268 considered_1 ,_3951 i_1072 have_353 to_1045 say_44 that_471 $T$ is_1603 des_10 ##erving_0 of_958 its_46 title_0 as_217 a_1613 seattle_9 institution_1 ._4630
+ray_16 '_920 s_307 boat_2 ##house_1
 1

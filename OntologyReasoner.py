@@ -357,13 +357,23 @@ class OntReasoner():
 
         # Save the outputs to .txt file
         if use_backup == True:
-            print(self.remaining_pos_vector)
-            outF= open(FLAGS.remaining_test_path, "w")
-            with open(FLAGS.test_path, "r") as fd:
-                for i, line in enumerate(fd):
-                    if i in self.remaining_pos_vector:
-                        outF.write(line)
-            outF.close()
+            BERT_da_types = ["BERT-nouns", "BERT-adverbs", "BERT-nouns_adverbs", "BERT-aspect", "BERT-aspect_adverbs"]
+            CBERT_da_types = ["CBERT-nouns", "CBERT-adverbs", "CBERT-nouns_adverbs", "CBERT-aspect", "CBERT-aspect_adverbs"]
+            BERTprepend_da_types = ["BERT_prepend-nouns", "BERT_prepend-adverbs", "BERT_prepend-nouns_adverbs", "BERT_prepend-aspect", "BERT_prepend-aspect_adverbs"]
+            BERTexpand_da_types = ["BERT_expand-nouns", "BERT_expand-adverbs", "BERT_expand-nouns_adverbs", "BERT_expand-aspect", "BERT_expand-aspect_adverbs"]
+            all_da_types = BERT_da_types + CBERT_da_types + BERTprepend_da_types + BERTexpand_da_types
+            for da_type in all_da_types:
+                FLAGS.da_type = da_type
+                FLAGS.remaining_test_path = f"data/programGeneratedData/"+str(FLAGS.embedding_dim)+'remainingtestdata'+"_"+str(FLAGS.da_type)+"_"+str(FLAGS.year)+".txt"
+                FLAGS.test_path = f"data/programGeneratedData/" + str(FLAGS.embedding_type) + str(FLAGS.embedding_dim)+'testdata'+str(FLAGS.year)+'_'+str(FLAGS.da_type)+".txt"
+
+                print(self.remaining_pos_vector)
+                outF= open(FLAGS.remaining_test_path, "w")
+                with open(FLAGS.test_path, "r") as fd:
+                    for i, line in enumerate(fd):
+                        if i in self.remaining_pos_vector:
+                            outF.write(line)
+                outF.close()
         if use_svm == True:
             print(self.remaining_pos_vector)
             outF= open(FLAGS.remaining_svm_test_path, "w")

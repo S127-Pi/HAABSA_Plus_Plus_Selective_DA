@@ -112,8 +112,9 @@ with open(f'{FLAGS.bert_embedding_path}', 'w', encoding='utf-8') as f:
         #  context_tokens.append(token)
         #  context_embeddings.append(token_vec)
 
-          f.write('\n%s_%s ' % (token, count))
+          f.write('%s_%s ' % (token, count))
           f.write(' '.join(map(str, token_vec_array)))
+          f.write('\n')
 
 #Change filename to file for download
 # files.download('BERT768embedding2015_none.txt')
